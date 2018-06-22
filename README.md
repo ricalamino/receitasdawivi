@@ -290,9 +290,6 @@ Apesar de se chamar **Bolo**, a consistência é quase de um pudim... Ou de pamo
 - 1 e ½ xícara chá de açúcar (270g)
 - 2 colheres (sopa) de manteiga sem sal (40g)
 - 200ml de leite de coco (1 vidro)
-- 1 xícara chá de leite
-- 1 xícara chá óleo
-- ½ xícara chá de coco ralado
 - 2 colheres sopa de farinha de trigo (16g)
 - 1 colher sopa de fermento em pó (12g)
 
@@ -340,8 +337,8 @@ Apesar de se chamar **Bolo**, a consistência é quase de um pudim... Ou de pamo
 5. Misturar bem e colocar numa assadeira untada e assar em forno médio.
 
 ### Cobertura ###
-6. Bater o creme de leite fresco para o chantilly.
-7. Amassar os morangos com açúcar e colocar sobre o bolo.
+1. Bater o creme de leite fresco para o chantilly.
+2. Amassar os morangos com açúcar e colocar sobre o bolo.
 
 ### Montagem ###
 
