@@ -74,28 +74,7 @@ Paçoca para polvilhar
 
 ----
 
-## :chocolate: Brigadeirão de Microondas ##
 
-### **Ingredientes** ###
-
-- 1 lata de leite condensado
-- 1 caixa de creme de leite
-- 1 xícara (chá) de chocolate em pó
-- 1/4 xícara (chá) de açúcar (NÃO PRECISA)
-- 1 colher (sopa) de margarina
-- 3 unidades de ovo
-
-### *Modo de preparo* ###
-
-Bata os ingredientes no liquidificador e coloque numa fôrma de bolo untada só com margarina.
-
-Levar ao microondas em potência alta por 7 minutos aproximadamente (observar até que ele não esteja mole).
-
-Desenforme morno.
-
-Decore com chocolate granulado.
-
-----
 
 ## :birthday: Brownie na marmita ##
 
@@ -368,4 +347,49 @@ Apesar de se chamar **Bolo**, a consistência é quase de um pudim... Ou de pamo
 Bolo - 1.a camada de chantilly. Por cima os morangos amassados e por cima outro bolo.
 Cobrir com chantilly e enfeitar com morangos.
 
+----
 
+## :custard: Brigadeirão de Microondas ##
+
+### **Ingredientes** ###
+
+- 1 lata de leite condensado
+- 1 caixa de creme de leite
+- 1 xícara (chá) de chocolate em pó
+- 1/4 xícara (chá) de açúcar (NÃO PRECISA)
+- 1 colher (sopa) de margarina
+- 3 unidades de ovo
+
+### **Modo de preparo** ###
+
+1. Bata os ingredientes no liquidificador e coloque numa fôrma de bolo untada só com margarina.
+2. Levar ao microondas em potência alta por 7 minutos aproximadamente (observar até que ele não esteja mole).
+3. Desenforme morno.
+4. Decore com chocolate granulado.
+
+----
+
+##  :croissant: Muffin Salgado Fácil ##
+
+::: tip DICA
+Substitua o presunto se quiser por algo que você goste mais. Ex: Bacon frito em cubinhos, mortadela, peito de peru, salsichão e etc....
+ :::
+
+### Ingredientes ###
+
+- 01 xícara (chá) de farinha de trigo com fermento
+- 04 colheres (sopa) de maionese
+- ¾ xícara (chá) de leite
+- 6 fatias de presunto picado
+- Salsinha picada a gosto
+- 1 pitada de sal
+
+### Modo de preparo ###
+
+1. Pré-aqueça o forno a 180°.
+2. Em um recipiente coloque a farinha de trigo com fermento, a maionese, o leite, o presunto picado e a salsinha.
+3. Misture bem todos os ingredientes.
+4. Tempere com o sal e mexa mais um pouco.
+5. Encha as forminhas de muffins até 2/3 da sua capacidade.
+6. Leve para assar por 15 a 20 minutos até que enfiando um palito ele saia limpo. 
+7. Aproveite!
