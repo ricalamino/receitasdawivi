@@ -1,0 +1,24 @@
+{
+  "name": "receitasdawivi",
+  "version": "1.0.0",
+  "description": "--- sidebar: auto sidebarDepth: 0 ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricalamino/receitasdawivi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricalamino/receitasdawivi/issues"
+  },
+  "homepage": "https://github.com/ricalamino/receitasdawivi#readme",
+  "dependencies": {
+    "vuepress": "^0.14.11"
+  }
+}
