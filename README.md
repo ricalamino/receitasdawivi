@@ -6,7 +6,7 @@ sidebarDepth: 0
 # :book: Receitas :woman_cook:
 
 ----
-## -- Bolos -- ##
+## -- **Bolos** -- ##
 ----
 
 ## :cake::lemon: Bolo de limão ##
@@ -398,7 +398,7 @@ Substitua o presunto se quiser por algo que você goste mais. Ex: Bacon frito em
 Misturar Os ingredientes e levar ao fogo médio (quase baixo), até dar ponto de bala mole.
 
 ----
-## -- Tortas -- ## 
+## -- **Tortas** -- ## 
 ----
 
 ## :fish_cake::fish: Torta de Atum ##
@@ -486,12 +486,8 @@ Misture tudo, junte com a massa e coloque no forno.
 5. Despeje o restante da massa e jogue o queijo ralado por cima de toda massa
 6. Leve a forno em temperatura média por aproximadamente 30 minutos, ou até dourar
 
-
-
-
-
 ----
-## -- Mousses -- ## 
+## -- **Mousses** -- ## 
 ----
 ## Mousse de morango ##
 
