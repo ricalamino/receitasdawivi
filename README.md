@@ -402,12 +402,12 @@ Substitua o presunto se quiser por algo que você goste mais. Ex: Bacon frito em
 
 **Massa**
 
-2 xícaras de farinha
-1 xícara de óleo
-3 ovos
-2 xícaras de leite
-3 colheres de queijo ralado
-1 colher de fermento
+- 2 xícaras de farinha
+- 1 xícara de óleo
+- 3 ovos
+- 2 xícaras de leite
+- 3 colheres de queijo ralado
+- 1 colher de fermento
 
 ### Modo de preparo ###
 
