@@ -417,14 +417,14 @@ Bater a massa no liquidificador.
 
 **Recheio**
 
-1 lata de atum
-1 tomate
-sal
-óleo
-pimenta de reino
-cheiro-verde
-cebola picada
-palmito
+- 1 lata de atum
+- 1 tomate
+- sal
+- óleo
+- pimenta de reino
+- cheiro-verde
+- cebola picada
+- palmito
 
 ### Modo de preparo ###
 
@@ -437,9 +437,9 @@ Misture tudo, junte com a massa e coloque no forno.
 
 ### **Ingredientes** ###
 
-245g de trigou ou 2 xícaras(xicara = 240ml) - sem fermento
-245g de açúcar ou 1 e 1/2 xícaras(xícara = 240ml)
-8 ovos
+- 245g de trigou ou 2 xícaras(xicara = 240ml) - sem fermento
+- 245g de açúcar ou 1 e 1/2 xícaras(xícara = 240ml)
+- 8 ovos
 
 ### Modo de preparo ###
 
