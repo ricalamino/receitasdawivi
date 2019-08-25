@@ -393,3 +393,45 @@ Substitua o presunto se quiser por algo que você goste mais. Ex: Bacon frito em
 5. Encha as forminhas de muffins até 2/3 da sua capacidade.
 6. Leve para assar por 15 a 20 minutos até que enfiando um palito ele saia limpo. 
 7. Aproveite!
+
+----
+
+
+
+----
+
+
+## Torta de Atum ##
+
+### **Ingredientes** ###
+
+**Massa**
+
+2 xícaras de farinha
+1 xícara de óleo
+3 ovos
+2 xícaras de leite
+3 colheres de queijo ralado
+1 colher de fermento
+
+### Modo de preparo ###
+
+Bater a massa no liquidificador.
+
+### **Ingredientes** ###
+
+**Recheio**
+
+1 lata de atum
+1 tomate
+sal
+óleo
+pimenta de reino
+cheiro-verde
+cebola picada
+palmito
+
+### Modo de preparo ###
+
+Misture tudo, junte com a massa e coloque no forno.
+
