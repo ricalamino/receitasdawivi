@@ -445,7 +445,7 @@ Misture tudo, junte com a massa e coloque no forno.
 
 1. Bater os ovos até que dobrem de volume.
 2. Acrescentar aos poucos o açúcar e bater mais um pouco até formar um creme claro.
-3. Desligar a batedeira e incorporar a farinha aos poucos misturando com fuê levemente.
+3. Desligar a batedeira e incorporar a farinha aos poucos misturando com fouet levemente.
 4. Colocar papel manteiga no fundo da forma e não untar a forma para o bolo grudar nas laterais.
 5. Colocar no forno 180º por aproximadamente meia hora.
 
@@ -457,24 +457,110 @@ Misture tudo, junte com a massa e coloque no forno.
 ### **Ingredientes** ###
 
 - 3 cenouras medias cortadas
-- 1 copo de oleo
-- 2 xicaras de acucar
+- 1 copo de óleo
+- 2 xicaras de açúcar
 - 2 xicaras de farinha de trigo
-- 3 OVOS inteiros
+- 3 ovos inteiros
 - 1 colher (sopa) de fermento
 
 **Calda**
-- 3 colheres de chocolate em po soluvel
+- 3 colheres de chocolate em pó solúvel
 - 1 colher (sopa) de manteiga
 - 1 lata de leite condensado
 
 ### Modo de preparo ###
 
 1. Bater no liquidificador: óleo, ovos, açúcar e cenoura. 
-2. Misturar O restante dos ingredientes em uma vasilha 
+2. Misturar o restante dos ingredientes em uma vasilha 
 3. Por último o fermento. 
 4. Untar a forma e levar ao forno.
 
 **Calda**
 
 Misturar Os ingredientes e levar ao fogo médio (quase baixo), até dar ponto de bala mole.
+
+----
+## -- Mousses -- ## 
+----
+## Mousse de morango ##
+
+### **Ingredientes** ###
+
+- 1 lata de leite condensado (395g)
+- 1 caixinha de creme de leite (200g)
+- 1 caixinha de gelatina sabor morango
+- 2 colheres (sopa) rasas de gelatina em pó sem sabor
+- ½ copo (requeijão) de água
+- 1 copo (requeijão) de chantilly batido (medir antes de bater)
+- 1 copo (requeijão) de morango picado
+
+### **Modo de preparo** ###
+
+1. Coloque no liquidificador o leite condensado, o creme de leite e o morango. Bata bem.
+2. Em uma panela coloque a gelatina sabor morango, a gelatina em pó sem sabor e a água. Mexa bem.
+3. Leve ao fogo até ferver, acrescente no liquidificador junto com a mistura de morango e bata.
+4. Deixe esfriar e acrescente o chantilly batido.
+5. Recheie o bolo e leve para gelar até ficar firme.
+
+----
+
+## Mousse de chocolate ##
+
+### **Ingredientes** ###
+
+- 170g de chocolate meio amargo
+- 170g de chocolate ao leite (tablete)
+- 1 caixinha de chantilly batido
+- 1 caixinha de creme de leite
+
+### **Modo de preparo** ###
+
+1. Derreta o chocolate ao leite e o meio amargo juntos (em banho-maria ou no micro-ondas)
+2. Com o chocolate já derretido, adicione o creme de leite e depois o chantilly batido. Recheie o bolo e leve para gelar.
+
+----
+
+## Mousse de maracujá ## 
+
+### **Ingredientes** ###
+
+- 1/2 xícara de suco concentrado de maracujá
+- 1 colher (de sopa) de gelatina em pó sem sabor
+- 1 lata de leite condensado
+- 1 caixa de creme de leite
+
+### **Modo de preparo** ###
+
+1. Em uma tigela coloque o suco, polvilhe a gelatina no suco e leve ao micro-ondas ou coloque em banho-maria, até que a gelatina derreta e fique líquida.
+2. Em seguida, adicione o leite condensado e uma caixa de creme de leite na batedeira até misturar bem (você também pode usar um fouet)
+3. Recheie o bolo e leve para gelar.
+
+----
+## Mousse de limão ##
+
+### **Ingredientes** ###
+
+- 1/2 xícara de suco concentrado de limão
+- 1 colher (de sopa) de gelatina em pó sem sabor
+- 1 lata de leite condensado
+- 1 caixa de creme de leite
+
+### **Modo de preparo** ###
+
+1. Em uma tigela coloque o suco, polvilhe a gelatina no suco e leve ao micro-ondas ou coloque em banho-maria, até que a gelatina derreta e fique líquida.
+2. Em seguida, adicione o leite condensado, uma caixa de creme de leite e bata na batedeira ou com um fouet até misturar bem.
+3. Recheie o bolo e leve para gelar.
+
+----
+## Mousse de chocolate branco ##
+
+### **Ingredientes** ###
+
+- 350g de chocolate branco
+- 1 caixinha de chantilly
+- 1 caixinha de creme de leite
+
+### **Modo de preparo** ###
+
+1. Derreta o chocolate branco em banho-maria ou micro-ondas.
+2. Com o chocolate já derretido, adicione o creme de leite e depois o chantilly batido, recheie o bolo e leve para gelar.
