@@ -450,3 +450,31 @@ Misture tudo, junte com a massa e coloque no forno.
 5. Colocar no forno 180º por aproximadamente meia hora.
 
 ----
+
+
+## :cake::carrot: Bolo de cenoura ##
+
+### **Ingredientes** ###
+
+- 3 cenouras medias cortadas
+- 1 copo de oleo
+- 2 xicaras de acucar
+- 2 xicaras de farinha de trigo
+- 3 OVOS inteiros
+- 1 colher (sopa) de fermento
+
+**Calda**
+- 3 colheres de chocolate em po soluvel
+- 1 colher (sopa) de manteiga
+- 1 lata de leite condensado
+
+### Modo de preparo ###
+
+1. Bater no liquidificador: óleo, ovos, açúcar e cenoura. 
+2. Misturar O restante dos ingredientes em uma vasilha 
+3. Por último o fermento. 
+4. Untar a forma e levar ao forno.
+
+**Calda**
+
+Misturar Os ingredientes e levar ao fogo médio (quase baixo), até dar ponto de bala mole.
