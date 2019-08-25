@@ -396,7 +396,7 @@ Substitua o presunto se quiser por algo que você goste mais. Ex: Bacon frito em
 
 ----
 
-## :pie::tuna: Torta de Atum ##
+## :fish_cake::fish: Torta de Atum ##
 
 ### **Ingredientes** ###
 
