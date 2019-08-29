@@ -368,8 +368,6 @@ Substitua o presunto se quiser por algo que você goste mais. Ex: Bacon frito em
 5. Colocar no forno 180º por aproximadamente meia hora.
 
 ----
-
-
 ## :cake::carrot: Bolo de cenoura ##
 
 ### **Ingredientes** ###
@@ -396,6 +394,32 @@ Substitua o presunto se quiser por algo que você goste mais. Ex: Bacon frito em
 **Calda**
 
 Misturar Os ingredientes e levar ao fogo médio (quase baixo), até dar ponto de bala mole.
+
+----
+## :cake: Cuca ##
+
+### **Ingredientes** ###
+- 2 colheres de sopa de margarina
+- 2 xicaras de açúcar
+- 4 ovos
+- 4 xícaras de farinha
+- 1/2 xícara de leite
+- 1 colher (sobremesa) de fermento
+
+**Outros**
+- 5 maçãs gala
+- 5 bananas nanicas 
+- (Limão e canela)
+
+**Farofa**
+- 2 xícaras de açúcar
+- 1 xícara de farinha
+- canela (1 colher de sopa)
+- margarina (4 colheres de sopa)
+
+
+### Modo de preparo ###
+1. A fazer...
 
 ----
 ## -- **Tortas** -- ## 
