@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/ricalamino/receitasdawivi#readme",
   "dependencies": {
-    "vuepress": "^0.14.11"
+    "vuepress": "^1.0.3"
   }
 }
