@@ -234,6 +234,22 @@ Desenforme, corte uma tampa, retire o miolo, molhe o bolo com guaraná e recheie
 Use o miolo do pão de mel, esfarele e misture o leite condensado. Faça bolinhas e passe no chocolate em pó.
 
 ----
+## :corn: Bolo de milho ##
+
+ ### INGREDIENTES ###
+1 LATA DE MILHO (SEM O LÍQUIDO)
+1 LATA DE LEITE (MEDIDA DA LATA DE MILHO)
+1 LATA DE AÇÚCAR (MEDIDA DA LATA DE MILHO)
+1 LATA DE FLOCÃO DE MILHO
+1/2 LATA DE ÓLEO DE SOJA
+3 OVOS INTEIROS
+1 COLHER (SOPA) DE FERMENTO
+
+### MODO DE PREPARO ### 
+BATA OS INGREDIENTES NO LIQUIDIFICADOR E LEVE AO FORNO.
+
+
+----
 ## :corn: Bolo de milho cremoso na marmita ##
 
 ::: warning ATENÇÃO
