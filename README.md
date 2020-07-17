@@ -236,18 +236,17 @@ Use o miolo do pão de mel, esfarele e misture o leite condensado. Faça bolinha
 ----
 ## :corn: Bolo de milho ##
 
- ### INGREDIENTES ###
-1 LATA DE MILHO (SEM O LÍQUIDO)
-1 LATA DE LEITE (MEDIDA DA LATA DE MILHO)
-1 LATA DE AÇÚCAR (MEDIDA DA LATA DE MILHO)
-1 LATA DE FLOCÃO DE MILHO
-1/2 LATA DE ÓLEO DE SOJA
-3 OVOS INTEIROS
-1 COLHER (SOPA) DE FERMENTO
+### Ingredientes ###
+- 1 lata de milho (sem o líquido)
+- 1 lata de leite (medida da lata de milho)
+- 1 lata de açúcar (medida da lata de milho)
+- 1 lata de flocão de milho
+- 1/2 lata de óleo de soja
+- 3 ovos inteiros
+- 1 colher (sopa) de fermento
 
-### MODO DE PREPARO ### 
-BATA OS INGREDIENTES NO LIQUIDIFICADOR E LEVE AO FORNO.
-
+### Modo de preparo ### 
+Bata os ingredientes no liquidificador e leve ao forno.
 
 ----
 ## :corn: Bolo de milho cremoso na marmita ##
