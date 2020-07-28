@@ -6,5 +6,6 @@ module.exports = {
   head: [
     ['meta', { name: 'theme-color', content: '#2196f3' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
-  ]
+  ],
+  plugins: ['@vuepress/pwa']
 }

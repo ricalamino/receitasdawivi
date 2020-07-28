@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "docs:build": "vuepress build"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "repository": {
     "type": "git",
@@ -18,7 +19,9 @@
     "url": "https://github.com/ricalamino/receitasdawivi/issues"
   },
   "homepage": "https://github.com/ricalamino/receitasdawivi#readme",
-  "dependencies": {
-    "vuepress": "^1.0.3"
+  "dependencies": {},
+  "devDependencies": {
+    "@vuepress/plugin-pwa": "^1.5.2",
+    "vuepress": "^1.5.2"
   }
 }

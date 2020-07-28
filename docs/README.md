@@ -249,7 +249,7 @@ Use o miolo do pão de mel, esfarele e misture o leite condensado. Faça bolinha
 Bata os ingredientes no liquidificador e leve ao forno.
 
 ----
-## :corn: Bolo de milho cremoso na marmita ##
+## Bolo de milho cremoso na marmita ##
 
 ::: warning ATENÇÃO
 Apesar de se chamar **Bolo**, a consistência é quase de um pudim... Ou de pamonha mesmo.
