@@ -57,9 +57,8 @@ Na sequência leve o bolo ao forno pré-aquecido, em temperatura de 200°C por 3
 ### Modo de preparo ###
 
 1. Bater tudo no liquidifcador.
-2. Em uma forma untada com manteiga e enfarinhada com o chocolate em pó, adicione a massa e leve ao forno preaquecido a 180 graus e deixe assar por
-3. cerca de 30 minutos dependendo do forno. Ou quando o palitinho sair seco.
-4. Deixe esfriar totalmente antes de esfarelar o bolo.
+2. Em uma forma untada com manteiga e enfarinhada com o chocolate em pó, adicione a massa e leve ao forno preaquecido a 180 graus e deixe assar porcerca de 30 minutos dependendo do forno. Ou quando o palitinho sair seco.
+3. Deixe esfriar totalmente antes de esfarelar o bolo.
 
 ### Calda ###
 
