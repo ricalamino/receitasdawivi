@@ -19,7 +19,12 @@
     "url": "https://github.com/ricalamino/receitasdawivi/issues"
   },
   "homepage": "https://github.com/ricalamino/receitasdawivi#readme",
-  "dependencies": {},
+  "dependencies": {
+    "node-forge": "^0.10.0",
+    "prismjs": "^1.21.0",
+    "serialize-javascript": "^5.0.1",
+    "update": "^0.7.4"
+  },
   "devDependencies": {
     "@vuepress/plugin-pwa": "^1.5.2",
     "vuepress": "^1.5.2"

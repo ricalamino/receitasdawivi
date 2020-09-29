@@ -42,6 +42,37 @@ Na sequência leve o bolo ao forno pré-aquecido, em temperatura de 200°C por 3
 
 ----
 
+## :cake::chocolate_bar: Bolo de cacau  ##
+
+### Ingredientes ###
+
+- 2 ovos :egg:
+- 1 xícara de óleo
+- 1 xícara de açúcar
+- 2 xícaras de farinha de trigo
+- 1 xícara de leite
+- 1 xícara de chocolate em pó 50% cacau (ou 100%)
+- 1 colher de sopa de fermento em pó
+
+### Modo de preparo ###
+
+1. Bater tudo no liquidifcador.
+2. Em uma forma untada com manteiga e enfarinhada com o chocolate em pó, adicione a massa e leve ao forno preaquecido a 180 graus e deixe assar por
+3. cerca de 30 minutos dependendo do forno. Ou quando o palitinho sair seco.
+4. Deixe esfriar totalmente antes de esfarelar o bolo.
+
+### Calda ###
+
+- 2 colheres de sopa de manteiga
+- 3 colheres de sopa de chocolate em pó 50% cacau (não pode usar o 100%)
+- 3 colheres de sopa de açúcar
+- 5 colheres de sopa de leite
+
+Misturar tudo e derreter no fogão. Jogar quente sobre o bolo quente.
+
+
+----
+
 ## :cake::chocolate_bar::peanuts: Bolo de cacau com paçoca ##
 
 ### Ingredientes ###
@@ -503,6 +534,22 @@ Misture tudo, junte com a massa e coloque no forno.
 
 ----
 ## -- **Mousses** -- ## 
+----
+## Mousse de manga ##
+
+### **Ingredientes** ###
+
+- 1 lata de leite condensado (395g)
+- 1 caixinha de creme de leite (200g)
+- ½ xícara de leite
+- 1 ½ mangas médias
+  
+### **Modo de preparo** ###
+
+1. Bata tudo no liquidificador.
+2. Coloque no congelador. Fica na consistência de sorvete.
+
+
 ----
 ## Mousse de morango ##
 
