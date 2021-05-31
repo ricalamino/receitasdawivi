@@ -7,9 +7,8 @@ sidebarDepth: 0
 
 ----
 
-## # **Receitas Lowcarb** ##
+## # **Receitas Low Carb** ##
 ----
-
 ## :cake: Pudim de paçoca ##
 
 
@@ -59,6 +58,44 @@ Num bowl coloque os ovos inteiros, o creme de leite e misture. Em seguida adicio
 [Link do Youtube](https://www.youtube.com/watch?v=wt3xOjPoWPE)
 ::: 
 
+----
+
+## :honey_pot: Doce de leite low carb ##
+
+### **Ingredientes** ###
+
+- 2 latas de creme de leite 
+- 150g de xilitol
+
+### Modo de preparo ###
+
+Adicione os dois ingredientes numa panela e de fundo grosso e mexa em fogo médio até obter um doce de leite com cor âmbar bem intensa, sirva quente ou frio.
+
+
+::: details Referências
+[Link do Youtube](https://www.youtube.com/watch?v=jew9GlmVFCI)
+::: 
+
+----
+
+
+## Biscoito low carb de amendoim com coco ##
+
+### Ingredientes ###
+
+- 1/2 xícara de farinha amendoim 
+- 1/2 xícara farinha coco
+- 2 colheres xilitol
+- 1 ovo batido
+- papel manteiga
+
+::: details Referências
+[Link do Youtube](https://www.youtube.com/watch?v=fZ86_Q0op64)
+::: 
+
+
+
+----
 
 ## -- **Bolos** -- ##
 ----
