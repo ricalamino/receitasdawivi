@@ -9,7 +9,7 @@ sidebarDepth: 0
 
 ## # **Receitas Low Carb** ##
 ----
-## :cake: Pudim de paçoca ##
+## :custard: Pudim de paçoca ##
 
 
 ### **Ingredientes** ###
@@ -79,12 +79,13 @@ Adicione os dois ingredientes numa panela e de fundo grosso e mexa em fogo médi
 ----
 
 
-## Biscoito low carb de amendoim com coco ##
+## :cookie: Biscoito low carb de amendoim com coco ##
 
 ### Ingredientes ###
 
 - 1/2 xícara de farinha amendoim 
 - 1/2 xícara farinha coco
+- 1/2 xícara de chocolate
 - 2 colheres xilitol
 - 1 ovo batido
 - papel manteiga
@@ -93,9 +94,68 @@ Adicione os dois ingredientes numa panela e de fundo grosso e mexa em fogo médi
 [Link do Youtube](https://www.youtube.com/watch?v=fZ86_Q0op64)
 ::: 
 
+----
 
+## :chicken: Torta de frango low carb (sem farinha) ##
+
+### **Ingredientes** ###
+
+- 4 ovos
+- 2 xícaras (chá) de frango desfiado
+- 1 tomate
+- 1 cenoura ralada
+- 2 colheres (sopa) de aveia
+- cebolinha a gosto
+- Sal e pimenta a gosto
+- 1 colher (sopa) de fermento em pó
+
+
+### Modo de preparo ###
+
+1. Bata as claras e reserve. Em um recipiente, coloque todos os ingredientes, mexa e depois acrescente as claras em neve e, por último, o fermento em pó. 
+2. Coloque em uma fôrma retangular untada e leve ao forno. 
+3. Deixe até a torta ficar dourada.
+
+
+::: details Referências
+[Link da Ana Maria](https://anamariabraga.globo.com/receita/torta-de-frango-low-carb-sem-farinha/)
+::: 
 
 ----
+
+## :cake: Brownie saudável de microondas ##
+
+### **Ingredientes** ###
+
+- 1 colher de sopa de iogurte grego
+- 5 colheres de sopa de água
+- 3 colheres de sopa de cacau em pó
+- 2 colheres de sopa de farinha de aveia
+- 1 colher de sopa de açúcar demerara
+
+Rendimento: 1 brownie
+
+::: details Referências
+[Link do Youtube](youtube.com/watch?v=8eKjkdg2nQ8)
+::: 
+
+----
+
+## Pizza de berinjela ## 
+
+### **Ingredientes** ###
+
+- 3 colheres de sopa de farinha de berinjela
+- 1 colher de sopa de azeite extra virgem
+- 50ml de água
+- Queijo mussarela Light
+- Orégano
+- Molho de tomate
+
+::: details Referências
+[Link do Youtube](https://www.youtube.com/watch?v=LEXoIN8B6c4)
+::: 
+
 
 ## -- **Bolos** -- ##
 ----
