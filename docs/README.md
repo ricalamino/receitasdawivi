@@ -136,7 +136,7 @@ Adicione os dois ingredientes numa panela e de fundo grosso e mexa em fogo médi
 Rendimento: 1 brownie
 
 ::: details Referências
-[Link do Youtube](youtube.com/watch?v=8eKjkdg2nQ8)
+[Link do Youtube](https://www.youtube.com/watch?v=8eKjkdg2nQ8)
 ::: 
 
 ----
