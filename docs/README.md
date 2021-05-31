@@ -6,6 +6,60 @@ sidebarDepth: 0
 # :book: Receitas :woman_cook:
 
 ----
+
+## # **Receitas Lowcarb** ##
+----
+
+## :cake: Pudim de paçoca ##
+
+
+### **Ingredientes** ###
+- 250mL de leite de coco
+- 1 sachê de gelatina incolor (preparar conforme a embalagem)
+- 2 colheres (sp) cheias - pasta de amendoim integral
+- 2 colheres (sp) adoçante (tal qual, stevia, xilitol ou eritritol )
+- 1 colher (sp) essência de baunilha
+- Paçoca Zero açúcar para decorar
+
+### **Modo de preparo** ###
+1. Bater o leite, a pasta de amendoim, o adoçante, baunilha por uns 3 minutos.
+Adicione a gelatina preparada e bata novamente por mais 2 minutos.
+2. Despeje em forminhas de silicone e leve a geladeira por umas 2 horas ou até que esteja firme.
+3. Desenforme e esfarele a paçoca por cima na hora de servir, ou passe o pudim na paçoca como preferir.
+
+::: tip DICAS
+- RENDE: 8 pudins
+- CONSERVAR: na geladeira por 3 dias
+- CONGELAR: não
+:::
+
+::: details Referências
+[Link do Youtube](https://www.youtube.com/watch?v=AVwOIlhjJyw)
+::: 
+
+----
+
+## :bread: Pão caseiro fácil e rápido ##
+
+### **Ingredientes** ###
+
+- 3 ovos
+- 3 colheres de sopa de creme de leite 
+- 200g de farinha de amêndoa (ou outra oleaginosa)
+- 30g de queijo parmesão ralado
+- 2 colheres de sopa de leite em pó 
+- 1 colher de sopa de fermento químico
+- Sal
+
+### **Modo de preparo** ###
+
+Num bowl coloque os ovos inteiros, o creme de leite e misture. Em seguida adicione os secos, a farinha de amêndoa, o queijo parmesão ralado, o leite em pó, o fermento químico e sal, misture até obter uma massa homogênea. Unte uma forma com manteiga e despeje a massa e leve para assar a 180°C até estar dourado.
+
+::: details Referências
+[Link do Youtube](https://www.youtube.com/watch?v=wt3xOjPoWPE)
+::: 
+
+
 ## -- **Bolos** -- ##
 ----
 
