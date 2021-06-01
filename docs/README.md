@@ -60,6 +60,46 @@ Num bowl coloque os ovos inteiros, o creme de leite e misture. Em seguida adicio
 
 ----
 
+## :bread: Pãozinho de microondas ##
+
+### **Ingredientes** ###
+
+- 1 ovo
+- 2 colheres de castanha de caju ou amêndoas
+- 1 colher de creme de leite
+- 1 fio de azeite de oliva
+- Sal e temperos a gosto
+- 1 colher pequena de fermento em pó
+
+### Modo de preparo ###
+
+Misture bem todos os ingredientes e coloque no microondas por 2 minutos.
+Depois é só cortar o pãozinho e comer como preferir.
+
+----
+
+## :bread: Panini ##
+
+
+### **Ingredientes** ###
+
+- 1 ovo
+- 2 colheres de sopa de requeijão
+- 1/2 colher de café de fermento químico em pó
+- Orégano a gosto
+
+### Modo de preparo ###
+
+1. Misturar tudo, colocar em um refratário pequeno
+untado com manteiga, levar ao micro-ondas por
+3 minutos.
+
+2. Usar o recheio de sua
+preferência.
+
+
+
+----
 ## :honey_pot: Doce de leite low carb ##
 
 ### **Ingredientes** ###
@@ -178,6 +218,39 @@ ou até firmar.
 ::: details Referências
 [Link da Ana Maria](https://anamariabraga.globo.com/receita/torta-de-frango-low-carb-sem-farinha/)
 ::: 
+
+----
+
+
+## :chicken: Canelone de palmito gratinado ##
+
+### **Ingredientes** ###
+
+- 1 vidro de palmito de açaí
+- 100g de peito de peru
+- 100g de muçarela fatiada
+- Queijo parmesão para gratinar
+
+
+### Molho branco ###
+
+
+- 1 colher de sopa de azeite de oliva
+- 1 colher de sopa de cebola picada
+- 1 caixa de creme de leite
+- 1 colher de sopa de cream cheese
+- 30g de muçarela ralada
+- Sal, pimenta do reino e noz moscada a gosto.
+
+
+### Modo de preparo ###
+
+- Faça os canelones enrolando o palmito com uma fatia de muçarela e uma de peito
+de peru e coloque em uma uma forma. 
+
+### Molho ###
+
+Refogue a cebola no azeite, misture todos os demais ingredientes (exceto o parmesão) e deixe engrossar um pouco. Coloque sobre os canelones, acrescente o parmesão ralado e leve ao forno até gratinar.
 
 ----
 
