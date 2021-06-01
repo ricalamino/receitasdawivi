@@ -9,6 +9,58 @@ sidebarDepth: 0
 
 ## # **Receitas Low Carb** ##
 ----
+
+### Crepioca ###
+
+### **Ingredientes** ###
+
+- 1 ovo
+- 1 colher de goma de tapioca
+- 1 colher de parmesão ou mussarela ralada
+- 1 colher de cream cheese
+- 1 fatia de queijo prato ou qualquer queijo de sua preferência
+
+### Modo de preparo ###
+
+1. Adicione em um prato fundo o ovo, a tapioca e o parmesão ralado.
+
+2. Misture tudo até ficar uma massa homogênea.
+
+3. Em seguida, adicione temperos a gosto, depois coloque numa frigideira untada com azeite extra virgem. Espere dourar uma parte, vire, recheie com cream cheese e queijo prato.
+
+4. Feche a crepioca e espere o queijo derreter.
+
+::: details Referências
+[Link do Tudo Gostoso](https://www.tudogostoso.com.br/receita/188307-crepioca-low-carb.html)
+::: 
+
+
+----
+
+## Mousse de limão ##
+
+### **Ingredientes** ###
+
+- 2 a 3 limões
+- 1 pote de iogurte sem sabor
+e sem açúcar
+- 1 caixinha de creme de leite
+- 70 gotas de adoçante
+- 1/2 pacote de gelatina sem
+sabor (3g) hidratada conforme
+a embalagem
+- Gotas de baunilha
+- Raspas de limão
+
+
+### Modo de preparo ###
+
+- Bater todos os ingredientes no
+liquidificador e levar pra gelar.
+
+
+----
+
 ## :custard: Pudim de paçoca ##
 
 
@@ -196,7 +248,7 @@ ou até firmar.
 
 ## :chicken: Torta de frango low carb (sem farinha) ##
 
-### **Ingredientes** ###
+
 
 - 4 ovos
 - 2 xícaras (chá) de frango desfiado
