@@ -38,7 +38,7 @@ Adicione a gelatina preparada e bata novamente por mais 2 minutos.
 
 ----
 
-## :bread: Pão caseiro fácil e rápido ##
+## :bread: Pão de amêndoas - Caseiro fácil e rápido ##
 
 ### **Ingredientes** ###
 
@@ -78,6 +78,64 @@ Adicione os dois ingredientes numa panela e de fundo grosso e mexa em fogo médi
 
 ----
 
+## :cake: Brownie (com sorvete) ##
+
+### **Ingredientes** ###
+
+- 3 ovos
+- 2 colheres de sopa de xilitol ou 3 de eritritol
+- 200g de chocolate 70% cacau
+- 1 colher de sopa de cacau em pó
+- Essência de baunilha a gosto
+- 1 xicara de chá de farinha de amêndoas
+- Nozes picadas a gosto e/ou gotas de chocolate 70% cacau
+- 100g de manteiga sem sal
+- Uma pitada de sal
+
+### **Modo de Preparo** ###
+
+1. Derreta o chocolate. Você pode fazer isso em blocos de 30
+segundos no micro-ondas. Cuidado para não deixar queimar.
+2. Quando estiver totalmente derretido, acrescente a manteiga.
+Em outro recipiente, bata bem os ovos e coloque junto com o
+chocolate e a manteiga.
+3. Adicione a farinha de amêndoas e misture bem.
+4. Acrescente os demais ingredientes e coloque a
+mistura em uma forma pequena forrada com papel manteiga.
+5. Leve ao forno pré-aquecido a 180 graus por cerca de 20 minutos.
+
+::: tip Sugestão
+Sirva com sorvete low carb
+:::
+
+----
+
+
+## :cake: Brigadeirão ##
+
+
+### **Ingredientes** ###
+
+- 3 ovos inteiros
+- 3 colheres de sopa de xilitol (40g) ou 4 colheres de sopa de eritritol (50g)
+- 1/2 xícara de chá de coco ralado (35g)
+- 10g de gelatina incolor e sem sabor (opcional)
+- 300 ml de creme de leite 
+- 200 ml de leite de coco
+- 3 colheres de sopa de água morna (50ml)
+- 4 colheres de cacau em pó (40g)
+- Óleo de coco ou manteiga para untar
+
+### Modo de preparo ###
+
+1. Untar uma forma de pudim com óleo de coco ou manteiga. Misturar todos os ingredientes, menos a gelatina e a agua, em um recipiente com o auxílio de um mixer ou em um liquidificador.
+2. Hidratar a gelatina com a água morna e adicioná-la à mistura.
+3. Colocar na forma e levar ao microondas por 9 minutos. Se preferir,
+assar em banho maria a 180 graus por aproximadamente uma hora
+ou até firmar.
+4. Deixar por pelo menos 4 horas na geladeira antes de desenformar.
+
+----
 
 ## :cookie: Biscoito low carb de amendoim com coco ##
 
