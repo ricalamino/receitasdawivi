@@ -252,6 +252,22 @@ Sirva com sorvete low carb
 ----
 
 
+## Bolo de cacau e coco ##
+
+### Ingredientes ###
+
+1 saquinho de coco ralado sem açúcar
+4 ovos
+4 colheres cacau em pó 100%
+3 colheres de Xilitol
+2 colheres de manteiga
+1 colheres fermento em pó
+Manteiga para untar
+Farinha de amêndoas pra enfarinhar
+
+
+----
+
 ## :cake: Brigadeirão ##
 
 
@@ -278,13 +294,14 @@ ou até firmar.
 
 ----
 
-## :cookie: Biscoito low carb de amendoim com coco ##
+## :cookie: Biscoito low carb de amendoim com coco (opção com cacau) ##
 
 ### Ingredientes ###
 
 - 1/2 xícara de farinha amendoim 
 - 1/2 xícara farinha coco
 - 1/2 xícara de chocolate
+- 1/2 xícara de cacau
 - 2 colheres xilitol
 - 1 ovo batido
 - papel manteiga
@@ -292,6 +309,27 @@ ou até firmar.
 ::: details Referências
 [Link do Youtube](https://www.youtube.com/watch?v=fZ86_Q0op64)
 ::: 
+
+----
+
+## Doce de abóbora com coco ##
+
+### Ingredientes ###
+- 500g de abóbora seca
+- 1/2 xícara de chá de xilitol ou 3/4 xícara de chá de eritritol
+- 50g de coco ralado fresco (in natura ou congelado)
+- 2 paus de canela
+- 5 cravos
+- 2 xícaras de chá de água (ou o suficiente para chegar ao ponto desejado,
+visto que o coco fresco solta água) 
+
+### Modo de preparo ###
+
+1. Coloque todos os ingredientes, exceto o coco em uma panela. 
+2. Coloque metade da água e complete conforme o líquido for secando. 
+3. Quando a abóbora estiver macia, acrescente o coco e deixe apurar bem.
+4. Acrescente mais água se necessário, para não queimar. 
+5. Retire a canela e os cravos para evitar que o doce fique amargo.
 
 ----
 
