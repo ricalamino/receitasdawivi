@@ -432,11 +432,11 @@ Rendimento: 1 brownie
 
 
 ### Ingredientes ###
-2 copos de iogurte natural integral ou desnatado
-1 caixinha de creme de leite nestlé
-3 colheres (sobremesa) de açúcar
-raspas de limão
-geleia ou calda de frutas a gosto
+- 2 copos de iogurte natural integral ou desnatado
+- 1 caixinha de creme de leite nestlé
+- 3 colheres (sobremesa) de açúcar
+- raspas de limão
+- geleia ou calda de frutas a gosto
 
 
 ### Modo de preparo ###
