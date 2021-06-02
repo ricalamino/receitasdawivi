@@ -7,7 +7,7 @@ sidebarDepth: 0
 
 ----
 
-## # **Receitas Low Carb** ##
+## -- **Receitas Low Carb** -- ##
 ----
 
 ## Crepioca ##
@@ -61,7 +61,34 @@ liquidificador e levar pra gelar.
 
 ----
 
-## :custard: Pudim de paçoca ##
+## Frozen iogurte (opção com açúcar) ##
+
+
+### Ingredientes ###
+- 2 copos de iogurte natural integral ou desnatado
+- 1 caixinha de creme de leite nestlé
+- 3 colheres (sobremesa) de açúcar
+- raspas de limão
+- geleia ou calda de frutas a gosto
+
+
+### Modo de preparo ###
+
+1. Coloque o iogurte no filtro de café para retirar o excesso de soro por 2 horas.
+2. Bata na batedeira com o creme de leite por cinco minutos e acrescente as raspas de limão quando terminar de bater.
+3. Leve ao freezer coberto por papel alumínio por 6 horas.
+4. Retire do freezer, deixe amolecer por alguns minutos e bata novamente na batedeira, até se tornar um creme fofo.
+5. Neste momento, é possível misturar frutas ou geleia ao frozen para fazer um sorvete com sabor.
+6. Aguarde ficar consistente e sirva. Minha sugestão é deixá-lo com sabor natural mesmo e acrescentar geleia de morango, amora ou calda de damasco ou ainda de maracujá ao servir.
+
+::: details Referências
+[Link do Tudo Gostoso](https://www.tudogostoso.com.br/receita/143628-frozen-iogurte-da-liz.html)
+::: 
+
+----
+
+
+## Pudim de paçoca ##
 
 
 ### **Ingredientes** ###
@@ -90,7 +117,7 @@ Adicione a gelatina preparada e bata novamente por mais 2 minutos.
 
 ----
 
-## :bread: Pão de amêndoas - Caseiro fácil e rápido ##
+## Pão de amêndoas - Caseiro fácil e rápido ##
 
 ### **Ingredientes** ###
 
@@ -112,7 +139,7 @@ Num bowl coloque os ovos inteiros, o creme de leite e misture. Em seguida adicio
 
 ----
 
-## :bread: Pãozinho de microondas ##
+## Pãozinho de microondas ##
 
 ### **Ingredientes** ###
 
@@ -131,7 +158,7 @@ Depois é só cortar o pãozinho e comer como preferir.
 ----
 
 
-## Queijadinha de Frigideira ##
+## Queijadinha de frigideira ##
 
 ### Ingredientes ###
 - 1 ovo inteiro
@@ -175,7 +202,7 @@ Depois é só cortar o pãozinho e comer como preferir.
 
 ----
 
-## :bread: Panini ##
+## Panini ##
 
 
 ### **Ingredientes** ###
@@ -201,7 +228,7 @@ preferência.
 
 
 
-## :honey_pot: Doce de leite low carb ##
+##  Doce de leite low carb ##
 
 ### **Ingredientes** ###
 
@@ -219,7 +246,7 @@ Adicione os dois ingredientes numa panela e de fundo grosso e mexa em fogo médi
 
 ----
 
-## :cake: Brownie (com sorvete) ##
+##  Brownie (com sorvete) ##
 
 ### **Ingredientes** ###
 
@@ -251,6 +278,23 @@ Sirva com sorvete low carb
 
 ----
 
+## Brownie saudável de microondas ##
+
+### **Ingredientes** ###
+
+- 1 colher de sopa de iogurte grego
+- 5 colheres de sopa de água
+- 3 colheres de sopa de cacau em pó
+- 2 colheres de sopa de farinha de aveia
+- 1 colher de sopa de açúcar demerara
+
+Rendimento: 1 brownie
+
+::: details Referências
+[Link do Youtube](https://www.youtube.com/watch?v=8eKjkdg2nQ8)
+::: 
+
+----
 
 ## Bolo de cacau e coco ##
 
@@ -268,7 +312,7 @@ Sirva com sorvete low carb
 
 ----
 
-## :cake: Brigadeirão ##
+##  Brigadeirão ##
 
 
 ### **Ingredientes** ###
@@ -294,7 +338,7 @@ ou até firmar.
 
 ----
 
-## :cookie: Biscoito low carb de amendoim com coco (opção com cacau) ##
+## Biscoito low carb de amendoim com coco (opção com cacau) ##
 
 ### Ingredientes ###
 
@@ -333,7 +377,7 @@ visto que o coco fresco solta água)
 
 ----
 
-## :chicken: Torta de frango low carb (sem farinha) ##
+##  Torta de frango low carb (sem farinha) ##
 
 
 
@@ -361,7 +405,7 @@ visto que o coco fresco solta água)
 ----
 
 
-## :chicken: Canelone de palmito gratinado ##
+##  Canelone de palmito gratinado ##
 
 ### **Ingredientes** ###
 
@@ -393,24 +437,6 @@ Refogue a cebola no azeite, misture todos os demais ingredientes (exceto o parme
 
 ----
 
-## :cake: Brownie saudável de microondas ##
-
-### **Ingredientes** ###
-
-- 1 colher de sopa de iogurte grego
-- 5 colheres de sopa de água
-- 3 colheres de sopa de cacau em pó
-- 2 colheres de sopa de farinha de aveia
-- 1 colher de sopa de açúcar demerara
-
-Rendimento: 1 brownie
-
-::: details Referências
-[Link do Youtube](https://www.youtube.com/watch?v=8eKjkdg2nQ8)
-::: 
-
-----
-
 ## Pizza de berinjela ## 
 
 ### **Ingredientes** ###
@@ -427,33 +453,7 @@ Rendimento: 1 brownie
 ::: 
 
 ----
-
-## Frozen iogurte (opção com açúcar) ##
-
-
-### Ingredientes ###
-- 2 copos de iogurte natural integral ou desnatado
-- 1 caixinha de creme de leite nestlé
-- 3 colheres (sobremesa) de açúcar
-- raspas de limão
-- geleia ou calda de frutas a gosto
-
-
-### Modo de preparo ###
-
-1. Coloque o iogurte no filtro de café para retirar o excesso de soro por 2 horas.
-2. Bata na batedeira com o creme de leite por cinco minutos e acrescente as raspas de limão quando terminar de bater.
-3. Leve ao freezer coberto por papel alumínio por 6 horas.
-4. Retire do freezer, deixe amolecer por alguns minutos e bata novamente na batedeira, até se tornar um creme fofo.
-5. Neste momento, é possível misturar frutas ou geleia ao frozen para fazer um sorvete com sabor.
-6. Aguarde ficar consistente e sirva. Minha sugestão é deixá-lo com sabor natural mesmo e acrescentar geleia de morango, amora ou calda de damasco ou ainda de maracujá ao servir.
-
-::: details Referências
-[Link do Tudo Gostoso](https://www.tudogostoso.com.br/receita/143628-frozen-iogurte-da-liz.html)
-::: 
-
-----
-## # **Bolos** ##
+## -- **Bolos** -- ##
 ----
 
 ## :cake::lemon: Bolo de limão ##
