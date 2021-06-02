@@ -130,6 +130,51 @@ Depois é só cortar o pãozinho e comer como preferir.
 
 ----
 
+
+## Queijadinha de Frigideira ##
+
+### Ingredientes ###
+- 1 ovo inteiro
+- 1/4 xícara de queijo ralado
+- 1/2 xícara de coco ralado s/ açúcar
+- adoçante a gosto (usei 1 sachê de sucralose)
+- 1 colher de chá de essência de baunilha
+
+### Modo de preparo ###
+
+1. Misturar todos os ingredientes num refratário.
+2. Mexer até virar uma mistura densa e homogênea.
+3. Colocar numa frigideira em fogo baixo. Colocar uma tampa para abafar.
+4. Após 2 minutos desligar o fogo e verificar que as bordas estão ficando mais amarelas. Voltar a tampar.
+5. Depois que assou em cima, virar a massa para assar o outro lado.
+6. Ligar o fogo por mais 1 ou 2 minutos para assar.
+
+----
+
+
+## Quibe de forno ## 
+
+### Ingredientes ###
+
+- 500g carne moída 
+- 1/2 cebola
+- 2 dentes de alho
+- salsinha
+- cebolinha
+- sal
+- pimenta do reino
+- 1 tomate pequeno picado (opcional)
+- 1/2 cenoura ralada (opcional)
+- 04 colheres de sopa (cheias) de linhaça dourada
+- 01 maço hortelã picada
+- 01 colher de sopa de azeite
+
+::: details Referências
+[Link do Youtube](https://www.youtube.com/watch?v=QJ8MUM4ld7g)
+:::
+
+----
+
 ## :bread: Panini ##
 
 
@@ -152,6 +197,10 @@ preferência.
 
 
 ----
+
+
+
+
 ## :honey_pot: Doce de leite low carb ##
 
 ### **Ingredientes** ###
@@ -339,8 +388,34 @@ Rendimento: 1 brownie
 [Link do Youtube](https://www.youtube.com/watch?v=LEXoIN8B6c4)
 ::: 
 
+----
 
-## -- **Bolos** -- ##
+## Frozen iogurte (opção com açúcar) ##
+
+
+### Ingredientes ###
+2 copos de iogurte natural integral ou desnatado
+1 caixinha de creme de leite nestlé
+3 colheres (sobremesa) de açúcar
+raspas de limão
+geleia ou calda de frutas a gosto
+
+
+### Modo de preparo ###
+
+1. Coloque o iogurte no filtro de café para retirar o excesso de soro por 2 horas.
+2. Bata na batedeira com o creme de leite por cinco minutos e acrescente as raspas de limão quando terminar de bater.
+3. Leve ao freezer coberto por papel alumínio por 6 horas.
+4. Retire do freezer, deixe amolecer por alguns minutos e bata novamente na batedeira, até se tornar um creme fofo.
+5. Neste momento, é possível misturar frutas ou geleia ao frozen para fazer um sorvete com sabor.
+6. Aguarde ficar consistente e sirva. Minha sugestão é deixá-lo com sabor natural mesmo e acrescentar geleia de morango, amora ou calda de damasco ou ainda de maracujá ao servir.
+
+::: details Referências
+[Link do Tudo Gostoso](https://www.tudogostoso.com.br/receita/143628-frozen-iogurte-da-liz.html)
+::: 
+
+----
+## # **Bolos** ##
 ----
 
 ## :cake::lemon: Bolo de limão ##
