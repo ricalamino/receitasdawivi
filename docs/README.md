@@ -256,14 +256,14 @@ Sirva com sorvete low carb
 
 ### Ingredientes ###
 
-1 saquinho de coco ralado sem açúcar
-4 ovos
-4 colheres cacau em pó 100%
-3 colheres de Xilitol
-2 colheres de manteiga
-1 colheres fermento em pó
-Manteiga para untar
-Farinha de amêndoas pra enfarinhar
+- 1 saquinho de coco ralado sem açúcar
+- 4 ovos
+- 4 colheres cacau em pó 100%
+- 3 colheres de xilitol
+- 2 colheres de manteiga
+- 1 colheres fermento em pó
+- Manteiga para untar
+- Farinha de amêndoas pra enfarinhar
 
 
 ----
