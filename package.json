@@ -22,7 +22,7 @@
   "dependencies": {
     "braces": "^2.3.1",
     "glob-parent": "^5.1.2",
-    "node-forge": "^0.10.0",
+    "node-forge": "^1.0.0",
     "prismjs": "^1.23.0",
     "serialize-javascript": "^5.0.1",
     "set-value": "^2.0.1",
