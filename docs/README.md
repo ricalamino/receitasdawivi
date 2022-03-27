@@ -363,6 +363,37 @@ de calda.
 
 ----
 
+## Brownie de batata doce ##
+
+### Ingredientes ###
+
+2/3 xícara -153g - de batata doce cozida
+3 colheres (sp) óleo de coco
+1/4 xícara - açúcar demerara
+baunilha a gosto
+1 ovo
+1/2 xícara - 50g - farinha de aveia
+2/3 xícara - 70g - cacau em pó 50%
+1 colher (café) canela em pó
+1 colher (chá) fermento químico.
+
+### Modo de preparo ### 
+Cozinhe a batata no vapor ou no
+micro-ondas para não reter muita água.
+Amasse e coloque em um processador.
+Acrescente o óleo de coco, a baunilha e
+bata bem.
+Coloque o ovo e bata novamente para misturar.
+Despeje em uma tigela e junte a farinha e o
+cacau, a canela e o fermento. 
+Peneire tudo e misture com uma espátula.
+
+Unte uma forma 16x16 com óleo de coco e coloque a massa, umedeça uma colher no óleo de coco e alise a massa nivelando na forma.
+
+Leve ao forno pré-aquecido 180 graus entre 20 a 25 minutos.
+
+----
+
 ##  Brigadeirão ##
 
 
