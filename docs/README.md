@@ -367,15 +367,15 @@ de calda.
 
 ### Ingredientes ###
 
-2/3 xícara -153g - de batata doce cozida
-3 colheres (sp) óleo de coco
-1/4 xícara - açúcar demerara
-baunilha a gosto
-1 ovo
-1/2 xícara - 50g - farinha de aveia
-2/3 xícara - 70g - cacau em pó 50%
-1 colher (café) canela em pó
-1 colher (chá) fermento químico.
+- 2/3 xícara -153g - de batata doce cozida
+- 3 colheres (sp) óleo de coco
+- 1/4 xícara - açúcar demerara
+- baunilha a gosto
+- 1 ovo
+- 1/2 xícara - 50g - farinha de aveia
+- 2/3 xícara - 70g - cacau em pó 50%
+- 1 colher (café) canela em pó
+- 1 colher (chá) fermento químico.
 
 ### Modo de preparo ### 
 Cozinhe a batata no vapor ou no
