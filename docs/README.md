@@ -419,7 +419,7 @@ Rendimento: 1 brownie
 ----
 
 
-## Bolo de Chocolate para Diabéticos ##
+## Bolo de Chocolate (Medina-Valente)) ##
 
 ### Ingredientes ###
 - 4 ovos
