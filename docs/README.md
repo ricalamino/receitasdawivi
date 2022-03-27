@@ -335,6 +335,34 @@ Rendimento: 1 brownie
 
 ----
 
+
+## Bolo de Chocolate para Diabéticos ##
+
+### Ingredientes ###
+- 4 ovos
+- 1 xícara de cacau em pó peneirado
+- 2 xícaras de farinha de amêndoas
+- 1 XÍC de leite de coco
+- 1/2 xícara de manteiga derretida ou óleo de coco
+- 1/2 xic de adoçante xilitol
+- 1 colher de sopa de fermento
+
+### Modo de preparo ### 
+Bata os ovos com a manteiga e o adoçante, em seguida 
+acrescente o cacau e a farinha de amêndoas. Por fim,
+acrescente o leite até a massa atingir um ponto cremoso,
+adicione o fermento mexendo delicadamente e leve para
+assar em fogo pré aquecido 180 graus até espetar e sair
+limpo.
+
+### Calda ### 
+
+A calda é um ganache. Derreta em banho maria uma barra
+de chocolate 70% e adicione creme de leite até dar ponto
+de calda.
+
+----
+
 ##  Brigadeirão ##
 
 
