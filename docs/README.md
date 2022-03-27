@@ -348,11 +348,12 @@ Rendimento: 1 brownie
 - 1 colher de sopa de fermento
 
 ### Modo de preparo ### 
-Bata os ovos com a manteiga e o adoçante, em seguida 
-acrescente o cacau e a farinha de amêndoas. Por fim,
-acrescente o leite até a massa atingir um ponto cremoso,
-adicione o fermento mexendo delicadamente e leve para
-assar em fogo pré aquecido 180 graus até espetar e sair
+1. Bata os ovos com a manteiga e o adoçante, em seguida 
+acrescente o cacau e a farinha de amêndoas. 
+2. Por fim,
+acrescente o leite até a massa atingir um ponto cremoso.
+3. Adicione o fermento mexendo delicadamente.
+4. Leve para assar em fogo pré aquecido 180 graus até espetar e sair
 limpo.
 
 ### Calda ### 
@@ -378,19 +379,24 @@ de calda.
 - 1 colher (chá) fermento químico.
 
 ### Modo de preparo ### 
-Cozinhe a batata no vapor ou no
+
+1. Cozinhe a batata no vapor ou no
 micro-ondas para não reter muita água.
-Amasse e coloque em um processador.
-Acrescente o óleo de coco, a baunilha e
+2. Amasse e coloque em um processador.
+3. Acrescente o óleo de coco, a baunilha e
 bata bem.
-Coloque o ovo e bata novamente para misturar.
-Despeje em uma tigela e junte a farinha e o
+4. Coloque o ovo e bata novamente para misturar.
+5. Despeje em uma tigela e junte a farinha e o
 cacau, a canela e o fermento. 
-Peneire tudo e misture com uma espátula.
+6. Peneire tudo e misture com uma espátula.
+7. Unte uma forma 16x16 com óleo de coco e coloque a massa, umedeça uma colher no óleo de coco e alise a massa nivelando na forma.
+8. Leve ao forno pré-aquecido 180 graus entre 20 a 25 minutos.
 
-Unte uma forma 16x16 com óleo de coco e coloque a massa, umedeça uma colher no óleo de coco e alise a massa nivelando na forma.
 
-Leve ao forno pré-aquecido 180 graus entre 20 a 25 minutos.
+::: details Referências
+[Link do Youtube](https://youtu.be/6F05sxbVyDU)
+::: 
+
 
 ----
 
@@ -461,8 +467,6 @@ visto que o coco fresco solta água)
 
 ##  Torta de frango low carb (sem farinha) ##
 
-
-
 - 4 ovos
 - 2 xícaras (chá) de frango desfiado
 - 1 tomate
@@ -521,7 +525,7 @@ Refogue a cebola no azeite, misture todos os demais ingredientes (exceto o parme
 
 ## Pizza de berinjela ## 
 
-### **Ingredientes** ###
+### Ingredientes ###
 
 - 3 colheres de sopa de farinha de berinjela
 - 1 colher de sopa de azeite extra virgem
@@ -535,6 +539,45 @@ Refogue a cebola no azeite, misture todos os demais ingredientes (exceto o parme
 ::: 
 
 ----
+
+
+## Risoto de couve-flor ## 
+
+### Ingredientes ###
+
+- 300g de floretes de couve-flor ( processados no mixer ou liquidificador)
+- 3 colheres (sp) azeite
+- 1 colher (sp) manteiga
+- 1/2 colher 
+- 3 dentes de alho moídos
+- 1/2 cebola picada
+- pimenta do reino a gosto
+- sal a gosto
+- vagem cortada fininha a gosto
+- 1/2 xícara - (ou 1/2 caixinha) creme de leite ou cream cheese
+- 2 colheres (sp) queijo parmesão ralado
+- 2 fatias de mussarela picadinha
+- cebolinha a gosto
+
+### Modo de preparo ### 
+
+1. Triture a couve-flor e depois aqueça uma panela com azeite e cebola. 
+2. Acrescente a couve-flor, alho, sal, pimenta e misture bem...
+3. Deixe refogar...
+4. Assim que estiver ao dente a couve-flor coloque o creme de leite e o queijo ralado, mussarela e misture bem...
+5. Adicione a cebolinha e sirva em seguida.
+
+::: tip DICAS
+- Fica delicioso ainda quente..
+- CONSERVAR: 3 dias na geladeira
+- CONGELAR: não testei
+- RENDE: para 3 pessoas
+:::
+
+::: details Referências
+[Link do Youtube](https://youtu.be/hh04CsSzgMY)
+::: 
+
 
 ## Suflê low carb de chuchu ## 
 
