@@ -419,7 +419,7 @@ Rendimento: 1 brownie
 ----
 
 
-## Bolo de Chocolate (Medina-Valente)) ##
+## Bolo de Chocolate (Medina-Valente) ##
 
 ### Ingredientes ###
 - 4 ovos
