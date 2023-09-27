@@ -1144,9 +1144,9 @@ Massa, frutas e farofa.
 
 
 
-- 3 xícaras de arroz cozido
+- 2 xícaras de arroz cozido
 - 1 xícara de leite
-- 3 ovos
+- 2 ovos
 - 1/2 xícara de óleo
 - 1 colher de fermento em pó
 
