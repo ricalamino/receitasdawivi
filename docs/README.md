@@ -118,6 +118,19 @@ Adicione a gelatina preparada e bata novamente por mais 2 minutos.
 ----
 
 
+## Pão de polvilho ## 
+
+### Ingredientes ###
+
+- 1 ovo
+- 1 colher de sopa Azeite de oliva 
+- 3/4 xicara Polvilho    
+- 1/2 xícara Água quente
+- 1/2 colher de chá de sal
+
+----
+
+
 ## Pão receheado delicioso feito no liquidificador ## 
 
 ### Ingredientes ###
@@ -1124,6 +1137,26 @@ Massa, frutas e farofa.
 ----
 ## -- **Tortas** -- ## 
 ----
+
+## Torta de Arroz ##
+
+### **Ingredientes** ###
+
+
+
+- 3 xícaras de arroz cozido
+- 1 xícara de leite
+- 3 ovos
+- 1/2 xícara de óleo
+- 1 colher de fermento em pó
+
+### Recheio variado ###
+
+Pode ser frango desfiado, cenoura e azeitona.
+
+----
+
+
 
 ## :fish_cake::fish: Torta de Atum ##
 
