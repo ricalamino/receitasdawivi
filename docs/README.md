@@ -1156,14 +1156,13 @@ Pode ser frango desfiado, cenoura e azeitona.
 
 ----
 
-
-## Torta carnívora (pão carnívoro) ##
-
+## Torta Carnívora (pão carnívoro) ##
 
 ### **Ingredientes** ###
-4 ovos
-150 g de frango coziado
-2 colheres de chá de fermento
+
+- 4 ovos
+- 150 g de frango coziado
+- 2 colheres de chá de fermento
 
 ### Modo de preparo ###
 Bater tudo no liquidificador. Recheie como quiser.
