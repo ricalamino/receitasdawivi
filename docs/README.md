@@ -37,6 +37,25 @@ sidebarDepth: 0
 
 ----
 
+## Pão básico ##
+
+### **Ingredientes** ###
+
+- 3 ovos
+- 3 colheres de sopa de iogurte
+- 3 colheres de sopa de queijo ralado
+- 1 xícara de farinha de oleaginosas (amendoim, amêndoas… escolha a de sua preferência)
+- 1 colher de sopa de fermento para bolo
+
+### **Modo de preparo** ###
+
+Levar ao forno a 180 graus por aproximadamente 30 minutos.
+
+Rende 10 porções, cada uma com 94 calorias, 3g de carboidratos (1g de fibras), 5g de proteínas e 7g de gorduras, aproximadamente.
+
+
+----
+
 ## Mousse de limão ##
 
 ### **Ingredientes** ###
