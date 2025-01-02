@@ -850,6 +850,37 @@ Paçoca para polvilhar
 
 ----
 
+## Bolo brigadeiro low carb ##
+
+### Ingredientes ###
+
+- 4 ovos
+- 100g iogurte natural integral
+- 50g manteiga (com sal)
+- 2 colheres sopa cacau em pó
+- 1 xícara farinha amêndoas
+- 4 colheres sopa eritritol
+- 1/2 xícara farinha maracujá
+- 1 colher sopa bicarbonato de sódio (ou fermento)
+- 1 colher psyllium (pode fazer sem ou substituir por goma xantana, mas aí seria 1 colher de café)
+
+### Cobertura do brigadeiro ###
+
+- 1 xícara de creme de leite
+- 1 colher sopa manteiga
+- 2 colheres sopa de cacau em pó
+- 4 colheres sopa de adoçanete eritritol
+
+### Modo de preparo - Gerado por IA ###
+
+1. Bata os ingredientes no liquidificador.
+2. Coloque em uma forma untada e enfarinhada.
+3. Leve ao forno preaquecido a 180 graus por 30 minutos.
+4. Retire do forno e deixe esfriar.
+
+
+----
+
 
 
 ## :birthday: Brownie na marmita ##
@@ -1361,7 +1392,7 @@ Pode ser frango desfiado, cenoura e azeitona.
 ### **Ingredientes** ###
 
 - 4 ovos
-- 150 g de frango coziado
+- 150 g de frango cozido
 - 2 colheres de chá de fermento
 
 ### Modo de preparo ###
