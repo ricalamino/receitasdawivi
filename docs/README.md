@@ -1236,6 +1236,27 @@ Para a calda, basta colocar os ingredientes em uma panela, ferver e deixar reduz
 
 ----
 
+## :cake: Bolo de mandioca ##
+
+### **Ingredientes** ###
+
+- 2 ovos
+- 1/2 xícara de xilitol
+- 1 colher de sopa de oleo de coco
+- 2 xícaras de mandioca crua ralada
+- 1/2 xícara de coco ralado sem açúcar
+- 100 mL de leite de coco
+- 1 colher sobremesa de fermento pra bolo
+
+### Modo de preparo ###
+
+1. Bater os ingredientes líquidos no liquidificador.
+2. Misturar o restante dos ingredientes secos em uma vasilha.
+3. Por último o fermento.
+4. Untar a forma e levar ao forno 180 graus por 40 minutos.
+
+----
+
 ## :cake: Cuca ##
 
 ### **Ingredientes** ###
@@ -1267,6 +1288,30 @@ Massa, frutas e farofa.
 ----
 ## -- **Tortas** -- ## 
 ----
+
+
+
+
+## Massa de torta vegana ##
+
+### Ingredientes ###
+
+- 1/2 xícara de óleo
+- 2 xícaras de agua
+- 1 xícara de farelo de aveia
+- 1 xícara de farinha de grão de bico
+- 1 pitada de sal
+- 1 colher de sopa de fermento em pó
+
+### Modo de preparo ###
+
+1. Bater até misturar. 
+2. No final adicionar o sal e o fermento e bater novamente.
+
+
+----
+
+
 
 ## Torta de Arroz ##
 
@@ -1388,6 +1433,25 @@ Misture tudo, junte com a massa e coloque no forno.
 ----
 ## -- **Mousses** -- ## 
 ----
+
+## Mousse de chocolate sem ovos low carb ##
+
+### **Ingredientes** ###
+
+- 400mL de leite de coco ou creme de leite
+- 300 g de chocolate meio amargo derretido
+- 1 pacotinho de gelatina sem sabor
+
+### Modo de preparo ###
+
+1. Derreta o chocolate e reserve.
+2. Em uma caneca coloque a gelatina e adicione 1/3 xícara de agua quente, misture e reserve.
+3. No liquidificador bata o leite de coco com o chocolate derretido, depois adicione a gelatina e bata novamente.
+4. Coloque em uma forma e leve para gelar.
+
+----
+
+
 ## Mousse de manga ##
 
 ### **Ingredientes** ###
