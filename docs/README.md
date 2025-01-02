@@ -1229,7 +1229,9 @@ Misturar Os ingredientes e levar ao fogo médio (quase baixo), até dar ponto de
 3. Unte uma forma pequena e redonda com manteiga e chocolate em pó, despeje a massa.
 4. Asse em forno pré aquecido 180C por 35 minutos.
 
-Para a calda, basta colocar os ingredientes em uma panela, ferver e deixar reduzir Se não tiver O cravo, pode fazer apenas com a canela também.
+**Calda**
+
+Para a calda, basta colocar os ingredientes em uma panela, ferver e deixar reduzir. Se não tiver o cravo, pode fazer apenas com a canela também.
 
 
 ----
