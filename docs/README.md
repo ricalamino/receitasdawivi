@@ -242,6 +242,23 @@ Depois é só cortar o pãozinho e comer como preferir.
 
 ----
 
+
+## Pão de Queijo Low Carb ##
+
+### Ingredientes ###
+
+- 1 ovo
+- 150g de queijo muçarela ralado
+- 50g de queijo parmesão ralado
+
+### Modo de Preparo ###
+
+1. Misture bem todos os ingredientes até formar uma massa homogênea.
+2. Modele bolinhas do tamanho desejado e coloque em forminhas ou diretamente em uma assadeira.
+3. Leve ao forno pré-aquecido a 180°C até dourar.
+
+----
+
 ## Nhoque de Ricota com Espinafre (sem Farinha) ##
 ### Ingredientes ###
 
@@ -346,6 +363,36 @@ preferência.
 
 ----
 
+
+## Canjica Low Carb com Chia! ##
+
+### Ingredientes ###
+
+- 250ml de creme de leite ou leite de coco (ou apenas leite de coco)
+- 250ml de leite de coco ou outro leite vegetal
+- 2 paus de canela
+- 50g de stevia ou eritritol
+- 2 colheres de chá de baunilha
+- 1 pitada de goma xantana
+- 1 colher de óleo de coco
+- Coco ralado a gosto
+- 100g de chia (a gosto)
+
+### Modo de Preparo ###
+
+1. Hidratação da chia:
+- Misture a chia com 250ml de leite vegetal e deixe na geladeira por pelo menos 4 horas.
+
+2. Preparação do creme:
+- Em uma panela, coloque o eritritol e os paus de canela e aqueça até começar a borbulhar.
+- Abaixe o fogo e adicione o leite de coco e os outros ingredientes, misturando bem.
+- Deixe ferver até que o sabor da canela se intensifique.
+
+3. Finalização:
+- Desligue o fogo, adicione a chia hidratada e mexa bem até formar um creme homogêneo.
+- Quanto mais tempo ferver, mais grosso ficará o creme.
+
+----
 
 
 
@@ -810,6 +857,32 @@ Na sequência leve o bolo ao forno pré-aquecido, em temperatura de 200°C por 3
 - 5 colheres de sopa de leite
 
 Misturar tudo e derreter no fogão. Jogar quente sobre o bolo quente.
+
+----
+
+## Bolo de milho cremoso, ideal para o café da manhã. ##
+
+### Ingredientes ###
+
+- 2 latas de milho verde escorrido
+- 2 xícaras (chá) de açúcar
+- 3 ovos
+- 2 colheres (sopa) de manteiga
+- 50 g de queijo parmesão ralado
+- 1 vidro de leite de coco
+- A mesma medida (do vidro) de leite
+- 4 colheres (sopa) de farinha de trigo
+- 1 colher (sopa) rasa de fermento em pó
+
+### Modo de preparo ###
+
+1. Bata bem todos os ingredientes no liquidificador, exceto o fermento.
+2. Adicione o fermento e misture bem.
+3. Coloque a massa em uma forma untada.
+4. Leve ao forno médio (pré-aquecido) por cerca de 35 a 40 minutos.
+5. Faça o teste do palito: espete o bolo com um palito e, se ele sair limpo, o bolo está no ponto.
+
+
 
 
 ----
