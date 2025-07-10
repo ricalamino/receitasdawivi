@@ -3,32 +3,37 @@ sidebar: auto
 sidebarDepth: 0
 ---
 
-# :book: Receitas :woman_cook:
+# 📚 Receitas da Wivian 👩‍🍳
 
-----
+> *Uma coleção de receitas deliciosas e práticas para todos os momentos!*
 
-## -- **Receitas Low Carb** -- ##
-----
+---
 
-## Crepioca ##
 
-### **Ingredientes** ###
 
-- 1 ovo
-- 1 colher de goma de tapioca
-- 1 colher de parmesão ou mussarela ralada
-- 1 colher de cream cheese
-- 1 fatia de queijo prato ou qualquer queijo de sua preferência
+## 🥗 **Receitas Low Carb** 🥗
 
-### Modo de preparo ###
+---
 
-1. Adicione em um prato fundo o ovo, a tapioca e o parmesão ralado.
+## 🥞 Crepioca Low Carb
 
-2. Misture tudo até ficar uma massa homogênea.
+### 📝 **Ingredientes** 📝
 
-3. Em seguida, adicione temperos a gosto, depois coloque numa frigideira untada com azeite extra virgem. Espere dourar uma parte, vire, recheie com cream cheese e queijo prato.
+- 🥚 1 ovo
+- 🥄 1 colher de goma de tapioca
+- 🧀 1 colher de parmesão ou mussarela ralada
+- 🥄 1 colher de cream cheese
+- 🧀 1 fatia de queijo prato ou qualquer queijo de sua preferência
 
-4. Feche a crepioca e espere o queijo derreter.
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
+
+1. 🥣 Adicione em um prato fundo o ovo, a tapioca e o parmesão ralado.
+
+2. 🔄 Misture tudo até ficar uma massa homogênea.
+
+3. 🍳 Em seguida, adicione temperos a gosto, depois coloque numa frigideira untada com azeite extra virgem. Espere dourar uma parte, vire, recheie com cream cheese e queijo prato.
+
+4. 🧀 Feche a crepioca e espere o queijo derreter.
 
 ::: details Referências
 [Link do Tudo Gostoso](https://www.tudogostoso.com.br/receita/188307-crepioca-low-carb.html)
@@ -39,49 +44,43 @@ sidebarDepth: 0
 
 ----
 
-## Mousse de limão ##
+## 🍋 Mousse de Limão Low Carb
 
-### **Ingredientes** ###
+### 📝 **Ingredientes** 📝
 
-- 2 a 3 limões
-- 1 pote de iogurte sem sabor
-e sem açúcar
-- 1 caixinha de creme de leite
-- 70 gotas de adoçante
-- 1/2 pacote de gelatina sem
-sabor (3g) hidratada conforme
-a embalagem
-- Gotas de baunilha
-- Raspas de limão
+- 🍋 2 a 3 limões
+- 🥛 1 pote de iogurte sem sabor e sem açúcar
+- 🥛 1 caixinha de creme de leite
+- 🧂 70 gotas de adoçante
+- 🧊 1/2 pacote de gelatina sem sabor (3g) hidratada conforme a embalagem
+- 🌿 Gotas de baunilha
+- 🍋 Raspas de limão
 
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-### Modo de preparo ###
-
-- Bater todos os ingredientes no
-liquidificador e levar pra gelar.
+- 🔄 Bater todos os ingredientes no liquidificador e levar pra gelar.
 
 
 ----
 
-## Frozen iogurte (opção com açúcar) ##
+## 🍦 Frozen Iogurte (opção com açúcar)
+
+### 📝 **Ingredientes** 📝
+- 🥛 2 copos de iogurte natural integral ou desnatado
+- 🥛 1 caixinha de creme de leite nestlé
+- 🧂 3 colheres (sobremesa) de açúcar
+- 🍋 raspas de limão
+- 🍓 geleia ou calda de frutas a gosto
 
 
-### Ingredientes ###
-- 2 copos de iogurte natural integral ou desnatado
-- 1 caixinha de creme de leite nestlé
-- 3 colheres (sobremesa) de açúcar
-- raspas de limão
-- geleia ou calda de frutas a gosto
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-
-### Modo de preparo ###
-
-1. Coloque o iogurte no filtro de café para retirar o excesso de soro por 2 horas.
-2. Bata na batedeira com o creme de leite por cinco minutos e acrescente as raspas de limão quando terminar de bater.
-3. Leve ao freezer coberto por papel alumínio por 6 horas.
-4. Retire do freezer, deixe amolecer por alguns minutos e bata novamente na batedeira, até se tornar um creme fofo.
-5. Neste momento, é possível misturar frutas ou geleia ao frozen para fazer um sorvete com sabor.
-6. Aguarde ficar consistente e sirva. Minha sugestão é deixá-lo com sabor natural mesmo e acrescentar geleia de morango, amora ou calda de damasco ou ainda de maracujá ao servir.
+1. 🧽 Coloque o iogurte no filtro de café para retirar o excesso de soro por 2 horas.
+2. 🥄 Bata na batedeira com o creme de leite por cinco minutos e acrescente as raspas de limão quando terminar de bater.
+3. ❄️ Leve ao freezer coberto por papel alumínio por 6 horas.
+4. 🔄 Retire do freezer, deixe amolecer por alguns minutos e bata novamente na batedeira, até se tornar um creme fofo.
+5. 🍓 Neste momento, é possível misturar frutas ou geleia ao frozen para fazer um sorvete com sabor.
+6. 🍽️ Aguarde ficar consistente e sirva. Minha sugestão é deixá-lo com sabor natural mesmo e acrescentar geleia de morango, amora ou calda de damasco ou ainda de maracujá ao servir.
 
 ::: details Referências
 [Link do Tudo Gostoso](https://www.tudogostoso.com.br/receita/143628-frozen-iogurte-da-liz.html)
@@ -90,22 +89,20 @@ liquidificador e levar pra gelar.
 ----
 
 
-## Pudim de paçoca ##
+## 🥜 Pudim de Paçoca Low Carb
 
+### 📝 **Ingredientes** 📝
+- 🥥 250mL de leite de coco
+- 🧊 1 sachê de gelatina incolor (preparar conforme a embalagem)
+- 🥜 2 colheres (sp) cheias - pasta de amendoim integral
+- 🧂 2 colheres (sp) adoçante (tal qual, stevia, xilitol ou eritritol)
+- 🌿 1 colher (sp) essência de baunilha
+- 🥜 Paçoca Zero açúcar para decorar
 
-### Ingredientes ###
-- 250mL de leite de coco
-- 1 sachê de gelatina incolor (preparar conforme a embalagem)
-- 2 colheres (sp) cheias - pasta de amendoim integral
-- 2 colheres (sp) adoçante (tal qual, stevia, xilitol ou eritritol )
-- 1 colher (sp) essência de baunilha
-- Paçoca Zero açúcar para decorar
-
-### **Modo de preparo** ###
-1. Bater o leite, a pasta de amendoim, o adoçante, baunilha por uns 3 minutos.
-Adicione a gelatina preparada e bata novamente por mais 2 minutos.
-2. Despeje em forminhas de silicone e leve a geladeira por umas 2 horas ou até que esteja firme.
-3. Desenforme e esfarele a paçoca por cima na hora de servir, ou passe o pudim na paçoca como preferir.
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
+1. 🔄 Bater o leite, a pasta de amendoim, o adoçante, baunilha por uns 3 minutos. Adicione a gelatina preparada e bata novamente por mais 2 minutos.
+2. 🥣 Despeje em forminhas de silicone e leve a geladeira por umas 2 horas ou até que esteja firme.
+3. 🍽️ Desenforme e esfarele a paçoca por cima na hora de servir, ou passe o pudim na paçoca como preferir.
 
 ::: tip DICAS
 - RENDE: 8 pudins
@@ -119,21 +116,21 @@ Adicione a gelatina preparada e bata novamente por mais 2 minutos.
 
 ----
 
-## Pão básico ##
+## 🍞 Pão Básico Low Carb
 
-### **Ingredientes** ###
+### 📝 **Ingredientes** 📝
 
-- 3 ovos
-- 3 colheres de sopa de iogurte
-- 3 colheres de sopa de queijo ralado
-- 1 xícara de farinha de oleaginosas (amendoim, amêndoas… escolha a de sua preferência)
-- 1 colher de sopa de fermento para bolo
+- 🥚 3 ovos
+- 🥛 3 colheres de sopa de iogurte
+- 🧀 3 colheres de sopa de queijo ralado
+- 🥜 1 xícara de farinha de oleaginosas (amendoim, amêndoas… escolha a de sua preferência)
+- 🧂 1 colher de sopa de fermento para bolo
 
-### **Modo de preparo** ###
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-Levar ao forno a 180 graus por aproximadamente 30 minutos.
+🔥 Levar ao forno a 180 graus por aproximadamente 30 minutos.
 
-Rende 10 porções, cada uma com 94 calorias, 3g de carboidratos (1g de fibras), 5g de proteínas e 7g de gorduras, aproximadamente.
+📊 **Informações nutricionais:** Rende 10 porções, cada uma com 94 calorias, 3g de carboidratos (1g de fibras), 5g de proteínas e 7g de gorduras, aproximadamente.
 
 
 ::: details Referências
@@ -143,40 +140,40 @@ Rende 10 porções, cada uma com 94 calorias, 3g de carboidratos (1g de fibras),
 ----
 
 
-## Pão de polvilho ## 
+## 🥖 Pão de Polvilho
 
-### Ingredientes ###
+### 📝 **Ingredientes** 📝
 
-- 1 ovo
-- 1 colher de sopa Azeite de oliva 
-- 3/4 xicara Polvilho    
-- 1/2 xícara Água quente
-- 1/2 colher de chá de sal
+- 🥚 1 ovo
+- 🫒 1 colher de sopa Azeite de oliva 
+- 🥄 3/4 xícara Polvilho    
+- 💧 1/2 xícara Água quente
+- 🧂 1/2 colher de chá de sal
 
 ----
 
 
-## Pão receheado delicioso feito no liquidificador ## 
+## 🥪 Pão Recheado Delicioso (Liquidificador)
 
-### Ingredientes ###
+### 📝 **Ingredientes** 📝
 
-### Recheio ###
-- 3 a 4 colheres (sp) óleo de linhaça (ou azeite de oliva)
-- 1/2 cebola picada
-- alho e sal a gosto
-- 180g de peito de frango cozido e desfiado
-- pimenta e páprica a gosto
-- cebolinha a gosto
-- requeijão light de 3 a 4 colheres (sp)
+#### 🍗 **Recheio** 🍗
+- 🫒 3 a 4 colheres (sp) óleo de linhaça (ou azeite de oliva)
+- 🧅 1/2 cebola picada
+- 🧄 alho e sal a gosto
+- 🍗 180g de peito de frango cozido e desfiado
+- 🌶️ pimenta e páprica a gosto
+- 🌿 cebolinha a gosto
+- 🥛 requeijão light de 3 a 4 colheres (sp)
 
-### Massa ###
-- 3 ovos
-- 1/4 xícara - 60ml - óleo de linhaça ou azeite
-- 1/3 xícara - 80ml - leite desnatado ou vegetal
-- 1/2 xícara - 35g - queijo parmesão ralado
-- sal a gosto
-- 1 xícara - 112g - farinha de amêndoas ( far. amendoim ou aveia)
-- 1 colher (sp) fermento químico
+#### 🥖 **Massa** 🥖
+- 🥚 3 ovos
+- 🫒 1/4 xícara - 60ml - óleo de linhaça ou azeite
+- 🥛 1/3 xícara - 80ml - leite desnatado ou vegetal
+- 🧀 1/2 xícara - 35g - queijo parmesão ralado
+- 🧂 sal a gosto
+- 🥜 1 xícara - 112g - farinha de amêndoas (far. amendoim ou aveia)
+- 🧂 1 colher (sp) fermento químico
 
 ### Modo de preparo ###
 
@@ -202,21 +199,21 @@ OBS: se for forma de alumínio unte e enfarinhe.
 ----
 
 
-## Pão de amêndoas - Caseiro fácil e rápido ##
+## 🥜 Pão de Amêndoas - Caseiro Fácil e Rápido
 
-### **Ingredientes** ###
+### 📝 **Ingredientes** 📝
 
-- 3 ovos
-- 3 colheres de sopa de creme de leite 
-- 200g de farinha de amêndoa (ou outra oleaginosa)
-- 30g de queijo parmesão ralado
-- 2 colheres de sopa de leite em pó 
-- 1 colher de sopa de fermento químico
-- Sal
+- 🥚 3 ovos
+- 🥛 3 colheres de sopa de creme de leite 
+- 🥜 200g de farinha de amêndoa (ou outra oleaginosa)
+- 🧀 30g de queijo parmesão ralado
+- 🥛 2 colheres de sopa de leite em pó 
+- 🧂 1 colher de sopa de fermento químico
+- 🧂 Sal
 
-### **Modo de preparo** ###
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-Num bowl coloque os ovos inteiros, o creme de leite e misture. Em seguida adicione os secos, a farinha de amêndoa, o queijo parmesão ralado, o leite em pó, o fermento químico e sal, misture até obter uma massa homogênea. Unte uma forma com manteiga e despeje a massa e leve para assar a 180°C até estar dourado.
+🥣 Num bowl coloque os ovos inteiros, o creme de leite e misture. Em seguida adicione os secos, a farinha de amêndoa, o queijo parmesão ralado, o leite em pó, o fermento químico e sal, misture até obter uma massa homogênea. 🧈 Unte uma forma com manteiga e despeje a massa e leve para assar a 180°C até estar dourado.
 
 ::: details Referências
 [Link do Youtube](https://www.youtube.com/watch?v=wt3xOjPoWPE)
@@ -224,70 +221,71 @@ Num bowl coloque os ovos inteiros, o creme de leite e misture. Em seguida adicio
 
 ----
 
-## Pãozinho de microondas ##
+## 🍞 Pãozinho de Microondas
 
-### Ingredientes ###
+### 📝 **Ingredientes** 📝
 
-- 1 ovo
-- 2 colheres de castanha de caju ou amêndoas
-- 1 colher de creme de leite
-- 1 fio de azeite de oliva
-- Sal e temperos a gosto
-- 1 colher pequena de fermento em pó
+- 🥚 1 ovo
+- 🥜 2 colheres de castanha de caju ou amêndoas
+- 🥛 1 colher de creme de leite
+- 🫒 1 fio de azeite de oliva
+- 🧂 Sal e temperos a gosto
+- 🧂 1 colher pequena de fermento em pó
 
-### Modo de preparo ###
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-Misture bem todos os ingredientes e coloque no microondas por 2 minutos.
-Depois é só cortar o pãozinho e comer como preferir.
-
-----
-
-
-## Pão de Queijo Low Carb ##
-
-### Ingredientes ###
-
-- 1 ovo
-- 150g de queijo muçarela ralado
-- 50g de queijo parmesão ralado
-
-### Modo de Preparo ###
-
-1. Misture bem todos os ingredientes até formar uma massa homogênea.
-2. Modele bolinhas do tamanho desejado e coloque em forminhas ou diretamente em uma assadeira.
-3. Leve ao forno pré-aquecido a 180°C até dourar.
+🔄 Misture bem todos os ingredientes e coloque no microondas por 2 minutos.
+🍽️ Depois é só cortar o pãozinho e comer como preferir.
 
 ----
 
-## Nhoque de Ricota com Espinafre (sem Farinha) ##
-### Ingredientes ###
 
-- 350g de ricota amassada
-- 1 maço (4 xícaras de chá) de folhas de espinafre picado
-- 1 ovo levemente batido (com garfo) OU 2 colheres de sopa cheias de creme de ricota 
-- 1/2 cebola picada
-- Sal e pimenta a gosto
-- 1 fio de azeite de oliva extravirgem
-- Para a montagem: molho de tomate e parmesão ralado a gosto.
+## 🧀 Pão de Queijo Low Carb
 
-### Modo de preparo ###
+### 📝 **Ingredientes** 📝
 
-1. Refogue cebola picada no azeite até dourar.
-2. Acrescente o espinafre e refogue até murchar.
-3. Junte o espinafre com a ricota e misture.
-4. Coloque sal e pimenta a gosto e misture.
-5. Coloque um ovo levemente batido e misture bem.
-6. Forre o fundo de um refratário com molho de tomate.
-7. Unte as mãos com azeite e modele bolinhas com delicadeza.
-8. Coloque as bolinhas no refratário deixando espaço entre elas.
-9. Cubra o nhoque com mais molho e polvilhe parmesão ralado.
-10. Leve ao forno pré-aquecido a 200ºC por 15 minutos.
+- 🥚 1 ovo
+- 🧀 150g de queijo muçarela ralado
+- 🧀 50g de queijo parmesão ralado
+
+### 👨‍🍳 **Modo de Preparo** 👨‍🍳
+
+1. 🔄 Misture bem todos os ingredientes até formar uma massa homogênea.
+2. 🏀 Modele bolinhas do tamanho desejado e coloque em forminhas ou diretamente em uma assadeira.
+3. 🔥 Leve ao forno pré-aquecido a 180°C até dourar.
+
+----
+
+## 🥟 Nhoque de Ricota com Espinafre (sem Farinha)
+
+### 📝 **Ingredientes** 📝
+
+- 🧀 350g de ricota amassada
+- 🥬 1 maço (4 xícaras de chá) de folhas de espinafre picado
+- 🥚 1 ovo levemente batido (com garfo) OU 2 colheres de sopa cheias de creme de ricota 
+- 🧅 1/2 cebola picada
+- 🧂 Sal e pimenta a gosto
+- 🫒 1 fio de azeite de oliva extravirgem
+- 🍅 Para a montagem: molho de tomate e parmesão ralado a gosto.
+
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
+
+1. 🍳 Refogue cebola picada no azeite até dourar.
+2. 🥬 Acrescente o espinafre e refogue até murchar.
+3. 🔄 Junte o espinafre com a ricota e misture.
+4. 🧂 Coloque sal e pimenta a gosto e misture.
+5. 🥚 Coloque um ovo levemente batido e misture bem.
+6. 🍅 Forre o fundo de um refratário com molho de tomate.
+7. 🫒 Unte as mãos com azeite e modele bolinhas com delicadeza.
+8. 🏀 Coloque as bolinhas no refratário deixando espaço entre elas.
+9. 🧀 Cubra o nhoque com mais molho e polvilhe parmesão ralado.
+10. 🔥 Leve ao forno pré-aquecido a 200ºC por 15 minutos.
  
-::: tip DICAS
-- Sirva com mais molho
-- Modele as bolinhas com muito cuidado e delicadeza.
-- Se quiser, coloque 2 colheres de sopa de parmesão ralado junto com a ricota. Fica uma delícia!
-- Rendimento: 30 nhoques (mais ou menos. depende do tamanho dos nhoques)
+::: tip 💡 **DICAS**
+- 🍽️ Sirva com mais molho
+- 🏀 Modele as bolinhas com muito cuidado e delicadeza.
+- 🧀 Se quiser, coloque 2 colheres de sopa de parmesão ralado junto com a ricota. Fica uma delícia!
+- 📊 Rendimento: 30 nhoques (mais ou menos. depende do tamanho dos nhoques)
 :::
 
 ::: details Referências
@@ -296,43 +294,43 @@ Depois é só cortar o pãozinho e comer como preferir.
 
 
 ----
-## Queijadinha de frigideira ##
+## 🧀 Queijadinha de Frigideira
 
-### Ingredientes ###
-- 1 ovo inteiro
-- 1/4 xícara de queijo ralado
-- 1/2 xícara de coco ralado s/ açúcar
-- adoçante a gosto (usei 1 sachê de sucralose)
-- 1 colher de chá de essência de baunilha
+### 📝 **Ingredientes** 📝
+- 🥚 1 ovo inteiro
+- 🧀 1/4 xícara de queijo ralado
+- 🥥 1/2 xícara de coco ralado s/ açúcar
+- 🧂 adoçante a gosto (usei 1 sachê de sucralose)
+- 🌿 1 colher de chá de essência de baunilha
 
-### Modo de preparo ###
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-1. Misturar todos os ingredientes num refratário.
-2. Mexer até virar uma mistura densa e homogênea.
-3. Colocar numa frigideira em fogo baixo. Colocar uma tampa para abafar.
-4. Após 2 minutos desligar o fogo e verificar que as bordas estão ficando mais amarelas. Voltar a tampar.
-5. Depois que assou em cima, virar a massa para assar o outro lado.
-6. Ligar o fogo por mais 1 ou 2 minutos para assar.
+1. 🥣 Misturar todos os ingredientes num refratário.
+2. 🔄 Mexer até virar uma mistura densa e homogênea.
+3. 🍳 Colocar numa frigideira em fogo baixo. Colocar uma tampa para abafar.
+4. ⏰ Após 2 minutos desligar o fogo e verificar que as bordas estão ficando mais amarelas. Voltar a tampar.
+5. 🔄 Depois que assou em cima, virar a massa para assar o outro lado.
+6. 🔥 Ligar o fogo por mais 1 ou 2 minutos para assar.
 
 ----
 
 
-## Quibe de forno ## 
+## 🥙 Quibe de Forno
 
-### Ingredientes ###
+### 📝 **Ingredientes** 📝
 
-- 500g carne moída 
-- 1/2 cebola
-- 2 dentes de alho
-- salsinha
-- cebolinha
-- sal
-- pimenta do reino
-- 1 tomate pequeno picado (opcional)
-- 1/2 cenoura ralada (opcional)
-- 04 colheres de sopa (cheias) de linhaça dourada
-- 01 maço hortelã picada
-- 01 colher de sopa de azeite
+- 🥩 500g carne moída 
+- 🧅 1/2 cebola
+- 🧄 2 dentes de alho
+- 🌿 salsinha
+- 🌿 cebolinha
+- 🧂 sal
+- 🌶️ pimenta do reino
+- 🍅 1 tomate pequeno picado (opcional)
+- 🥕 1/2 cenoura ralada (opcional)
+- 🥜 04 colheres de sopa (cheias) de linhaça dourada
+- 🌿 01 maço hortelã picada
+- 🫒 01 colher de sopa de azeite
 
 ::: details Referências
 [Link do Youtube](https://www.youtube.com/watch?v=QJ8MUM4ld7g)
@@ -340,72 +338,68 @@ Depois é só cortar o pãozinho e comer como preferir.
 
 ----
 
-## Panini ##
+## 🥪 Panini
 
+### 📝 **Ingredientes** 📝
 
-### **Ingredientes** ###
+- 🥚 1 ovo
+- 🥛 2 colheres de sopa de requeijão
+- 🧂 1/2 colher de café de fermento químico em pó
+- 🌿 Orégano a gosto
 
-- 1 ovo
-- 2 colheres de sopa de requeijão
-- 1/2 colher de café de fermento químico em pó
-- Orégano a gosto
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-### Modo de preparo ###
+1. 🔄 Misturar tudo, colocar em um refratário pequeno untado com manteiga, levar ao micro-ondas por 3 minutos.
 
-1. Misturar tudo, colocar em um refratário pequeno
-untado com manteiga, levar ao micro-ondas por
-3 minutos.
-
-2. Usar o recheio de sua
-preferência.
+2. 🥓 Usar o recheio de sua preferência.
 
 
 
 ----
 
 
-## Canjica Low Carb com Chia! ##
+## 🥣 Canjica Low Carb com Chia!
 
-### Ingredientes ###
+### 📝 **Ingredientes** 📝
 
-- 250ml de creme de leite ou leite de coco (ou apenas leite de coco)
-- 250ml de leite de coco ou outro leite vegetal
-- 2 paus de canela
-- 50g de stevia ou eritritol
-- 2 colheres de chá de baunilha
-- 1 pitada de goma xantana
-- 1 colher de óleo de coco
-- Coco ralado a gosto
-- 100g de chia (a gosto)
+- 🥛 250ml de creme de leite ou leite de coco (ou apenas leite de coco)
+- 🥥 250ml de leite de coco ou outro leite vegetal
+- 🍂 2 paus de canela
+- 🧂 50g de stevia ou eritritol
+- 🌿 2 colheres de chá de baunilha
+- 🧂 1 pitada de goma xantana
+- 🥥 1 colher de óleo de coco
+- 🥥 Coco ralado a gosto
+- 🥜 100g de chia (a gosto)
 
-### Modo de Preparo ###
+### 👨‍🍳 **Modo de Preparo** 👨‍🍳
 
-1. Hidratação da chia:
-- Misture a chia com 250ml de leite vegetal e deixe na geladeira por pelo menos 4 horas.
+1. 🥜 **Hidratação da chia:**
+   - 🔄 Misture a chia com 250ml de leite vegetal e deixe na geladeira por pelo menos 4 horas.
 
-2. Preparação do creme:
-- Em uma panela, coloque o eritritol e os paus de canela e aqueça até começar a borbulhar.
-- Abaixe o fogo e adicione o leite de coco e os outros ingredientes, misturando bem.
-- Deixe ferver até que o sabor da canela se intensifique.
+2. 🍳 **Preparação do creme:**
+   - 🔥 Em uma panela, coloque o eritritol e os paus de canela e aqueça até começar a borbulhar.
+   - 🔥 Abaixe o fogo e adicione o leite de coco e os outros ingredientes, misturando bem.
+   - 🔥 Deixe ferver até que o sabor da canela se intensifique.
 
-3. Finalização:
-- Desligue o fogo, adicione a chia hidratada e mexa bem até formar um creme homogêneo.
-- Quanto mais tempo ferver, mais grosso ficará o creme.
+3. 🥣 **Finalização:**
+   - 🔄 Desligue o fogo, adicione a chia hidratada e mexa bem até formar um creme homogêneo.
+   - ⏰ Quanto mais tempo ferver, mais grosso ficará o creme.
 
 ----
 
 
 
-##  Doce de leite low carb ##
+## 🍯 Doce de Leite Low Carb
 
-### **Ingredientes** ###
+### 📝 **Ingredientes** 📝
 
-- 2 latas de creme de leite 
+- 🥛 2 latas de creme de leite 
 - 150g de xilitol
 
-### Modo de preparo ###
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-Adicione os dois ingredientes numa panela e de fundo grosso e mexa em fogo médio até obter um doce de leite com cor âmbar bem intensa, sirva quente ou frio.
+🍳 Adicione os dois ingredientes numa panela e de fundo grosso e mexa em fogo médio até obter um doce de leite com cor âmbar bem intensa, sirva quente ou frio.
 
 
 ::: details Referências
@@ -414,49 +408,45 @@ Adicione os dois ingredientes numa panela e de fundo grosso e mexa em fogo médi
 
 ----
 
-##  Brownie (com sorvete) ##
+## 🍫 Brownie (com sorvete)
 
-### **Ingredientes** ###
+### 📝 **Ingredientes** 📝
 
-- 3 ovos
-- 2 colheres de sopa de xilitol ou 3 de eritritol
-- 200g de chocolate 70% cacau
-- 1 colher de sopa de cacau em pó
-- Essência de baunilha a gosto
-- 1 xicara de chá de farinha de amêndoas
-- Nozes picadas a gosto e/ou gotas de chocolate 70% cacau
-- 100g de manteiga sem sal
-- Uma pitada de sal
+- 🥚 3 ovos
+- 🧂 2 colheres de sopa de xilitol ou 3 de eritritol
+- 🍫 200g de chocolate 70% cacau
+- 🍫 1 colher de sopa de cacau em pó
+- 🌿 Essência de baunilha a gosto
+- 🥜 1 xícara de chá de farinha de amêndoas
+- 🥜 Nozes picadas a gosto e/ou gotas de chocolate 70% cacau
+- 🧈 100g de manteiga sem sal
+- 🧂 Uma pitada de sal
 
-### **Modo de Preparo** ###
+### 👨‍🍳 **Modo de Preparo** 👨‍🍳
 
-1. Derreta o chocolate. Você pode fazer isso em blocos de 30
-segundos no micro-ondas. Cuidado para não deixar queimar.
-2. Quando estiver totalmente derretido, acrescente a manteiga.
-Em outro recipiente, bata bem os ovos e coloque junto com o
-chocolate e a manteiga.
-3. Adicione a farinha de amêndoas e misture bem.
-4. Acrescente os demais ingredientes e coloque a
-mistura em uma forma pequena forrada com papel manteiga.
-5. Leve ao forno pré-aquecido a 180 graus por cerca de 20 minutos.
+1. 🍫 Derreta o chocolate. Você pode fazer isso em blocos de 30 segundos no micro-ondas. Cuidado para não deixar queimar.
+2. 🧈 Quando estiver totalmente derretido, acrescente a manteiga. Em outro recipiente, bata bem os ovos e coloque junto com o chocolate e a manteiga.
+3. 🥜 Adicione a farinha de amêndoas e misture bem.
+4. 🔄 Acrescente os demais ingredientes e coloque a mistura em uma forma pequena forrada com papel manteiga.
+5. 🔥 Leve ao forno pré-aquecido a 180 graus por cerca de 20 minutos.
 
-::: tip Sugestão
-Sirva com sorvete low carb
+::: tip 💡 **Sugestão**
+🍦 Sirva com sorvete low carb
 :::
 
 ----
 
-## Brownie saudável de microondas ##
+## 🍫 Brownie Saudável de Microondas
 
-### **Ingredientes** ###
+### 📝 **Ingredientes** 📝
 
-- 1 colher de sopa de iogurte grego
-- 5 colheres de sopa de água
-- 3 colheres de sopa de cacau em pó
-- 2 colheres de sopa de farinha de aveia
-- 1 colher de sopa de açúcar demerara
+- 🥛 1 colher de sopa de iogurte grego
+- 💧 5 colheres de sopa de água
+- 🍫 3 colheres de sopa de cacau em pó
+- 🌾 2 colheres de sopa de farinha de aveia
+- 🧂 1 colher de sopa de açúcar demerara
 
-Rendimento: 1 brownie
+📊 **Rendimento:** 1 brownie
 
 ::: details Referências
 [Link do Youtube](https://www.youtube.com/watch?v=8eKjkdg2nQ8)
@@ -464,71 +454,94 @@ Rendimento: 1 brownie
 
 ----
 
-## Muffin de chocolate low carb ##
+## 🍫 Brownie Sem Farinha de Trigo (Low Carb)
 
-### Ingredientes ###
+### 📝 **Ingredientes** 📝
 
-- 2 ovos;
-- Óleo de coco 2 colheres (sopa);
-- Cacau em pó 3 colheres (sopa);
-- Farinha de aveia 2 colheres (sopa);
-- Adoçante culinário 2 colheres (sopa);
-- Farinha de amêndoa 1 chávena (chá);
-- Água 1/2 chávena (chá);
-- Fermento químico em pó 1 colher (sopa).
+- 🥜 1 xícara de farinha de amêndoas  
+- 🍫 1/2 xícara de cacau em pó 100%  
+- 🥚 3 ovos grandes  
+- 🥥 1/2 xícara de óleo de coco  
+- 🧂 1/2 xícara de eritritol ou xilitol  
+- 🌿 1 colher de chá de extrato de baunilha  
+- 🧂 1/2 colher de chá de fermento em pó  
+- 🧂 1 pitada de sal  
 
-### Modo de preparo ### 
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-1. Numa tigela bata os ovos, o óleo e a água.
-2. Junte os ingredientes secos, por último acrescente o fermento.
-3. Distribua a massa em forminhas próprias para muffins e leve a cozer ao forno durante 30 minutos à temperatura de 180ºC.
+1. 🔄 Misture todos os ingredientes em uma tigela até obter uma massa homogênea.
+2. 🍫 Despeje a massa em uma forma untada ou forrada com papel manteiga.
+3. 🔥 Leve ao forno pré-aquecido a 180°C por cerca de 20-25 minutos, ou até que esteja firme nas bordas e levemente úmido no centro.
+4. ❄️ Deixe esfriar antes de cortar em pedaços.
+
+::: tip 💡 **DICAS**
+- Em vez de xilitol, pode ser uva passa.
+- Em vez de farinha de amêndoas pode ser de amendoim.
+Sirva com uma bola de sorvete low carb ou frutas vermelhas para uma sobremesa ainda mais gostosa!
+:::
+
+----
+
+## 🧁 Muffin de Chocolate Low Carb
+
+### 📝 **Ingredientes** 📝
+
+- 🥚 2 ovos
+- 🥥 Óleo de coco 2 colheres (sopa)
+- 🍫 Cacau em pó 3 colheres (sopa)
+- 🌾 Farinha de aveia 2 colheres (sopa)
+- 🧂 Adoçante culinário 2 colheres (sopa)
+- 🥜 Farinha de amêndoa 1 xícara (chá)
+- 💧 Água 1/2 xícara (chá)
+- 🧂 Fermento químico em pó 1 colher (sopa)
+
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
+
+1. 🥣 Numa tigela bata os ovos, o óleo e a água.
+2. 🔄 Junte os ingredientes secos, por último acrescente o fermento.
+3. 🧁 Distribua a massa em forminhas próprias para muffins e leve a cozer ao forno durante 30 minutos à temperatura de 180ºC.
 
 
 
 
 ----
-## Bolo de cacau e coco ##
+## 🍰 Bolo de Cacau e Coco
 
-### Ingredientes ###
+### 📝 **Ingredientes** 📝
 
-- 1 saquinho de coco ralado sem açúcar
-- 4 ovos
-- 4 colheres cacau em pó 100%
-- 3 colheres de xilitol
-- 2 colheres de manteiga
-- 1 colheres fermento em pó
-- Manteiga para untar
-- Farinha de amêndoas pra enfarinhar
+- 🥥 1 saquinho de coco ralado sem açúcar
+- 🥚 4 ovos
+- 🍫 4 colheres cacau em pó 100%
+- 🧂 3 colheres de xilitol
+- 🧈 2 colheres de manteiga
+- 🧂 1 colher fermento em pó
+- 🧈 Manteiga para untar
+- 🥜 Farinha de amêndoas para enfarinhar
 
 
 ----
 
 
-## Bolo de Chocolate (Medina-Valente) ##
+## 🍫 Bolo de Chocolate (Medina-Valente)
 
-### Ingredientes ###
-- 4 ovos
-- 1 xícara de cacau em pó peneirado
-- 2 xícaras de farinha de amêndoas
-- 1 XÍC de leite de coco
-- 1/2 xícara de manteiga derretida ou óleo de coco
-- 1/2 xic de adoçante xilitol
-- 1 colher de sopa de fermento
+### 📝 **Ingredientes** 📝
+- 🥚 4 ovos
+- 🍫 1 xícara de cacau em pó peneirado
+- 🥜 2 xícaras de farinha de amêndoas
+- 🥥 1 xícara de leite de coco
+- 🧈 1/2 xícara de manteiga derretida ou óleo de coco
+- 🧂 1/2 xícara de adoçante xilitol
+- 🧂 1 colher de sopa de fermento
 
-### Modo de preparo ### 
-1. Bata os ovos com a manteiga e o adoçante, em seguida 
-acrescente o cacau e a farinha de amêndoas. 
-2. Por fim,
-acrescente o leite até a massa atingir um ponto cremoso.
-3. Adicione o fermento mexendo delicadamente.
-4. Leve para assar em fogo pré aquecido 180 graus até espetar e sair
-limpo.
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
+1. 🔄 Bata os ovos com a manteiga e o adoçante, em seguida acrescente o cacau e a farinha de amêndoas. 
+2. 🥛 Por fim, acrescente o leite até a massa atingir um ponto cremoso.
+3. 🧂 Adicione o fermento mexendo delicadamente.
+4. 🔥 Leve para assar em forno pré-aquecido 180 graus até espetar e sair limpo.
 
-### Calda ### 
+### 🍯 **Calda** 🍯
 
-A calda é um ganache. Derreta em banho maria uma barra
-de chocolate 70% e adicione creme de leite até dar ponto
-de calda.
+A calda é um ganache. 🍫 Derreta em banho maria uma barra de chocolate 70% e adicione creme de leite até dar ponto de calda.
 
 ----
 
@@ -612,44 +625,45 @@ ou até firmar.
 
 ----
 
-## Doce de abóbora com coco ##
+## 🎃 Doce de Abóbora com Coco
 
-### Ingredientes ###
-- 500g de abóbora seca
-- 1/2 xícara de chá de xilitol ou 3/4 xícara de chá de eritritol
-- 50g de coco ralado fresco (in natura ou congelado)
-- 2 paus de canela
-- 5 cravos
-- 2 xícaras de chá de água (ou o suficiente para chegar ao ponto desejado,
-visto que o coco fresco solta água) 
+### 📝 **Ingredientes** 📝
+- 🎃 500g de abóbora seca
+- 🧂 1/2 xícara de chá de xilitol ou 3/4 xícara de chá de eritritol
+- 🥥 50g de coco ralado fresco (in natura ou congelado)
+- 🍂 2 paus de canela
+- 🌸 5 cravos
+- 💧 2 xícaras de chá de água (ou o suficiente para chegar ao ponto desejado, visto que o coco fresco solta água) 
 
-### Modo de preparo ###
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-1. Coloque todos os ingredientes, exceto o coco em uma panela. 
-2. Coloque metade da água e complete conforme o líquido for secando. 
-3. Quando a abóbora estiver macia, acrescente o coco e deixe apurar bem.
-4. Acrescente mais água se necessário, para não queimar. 
-5. Retire a canela e os cravos para evitar que o doce fique amargo.
+1. 🍳 Coloque todos os ingredientes, exceto o coco em uma panela. 
+2. 💧 Coloque metade da água e complete conforme o líquido for secando. 
+3. 🎃 Quando a abóbora estiver macia, acrescente o coco e deixe apurar bem.
+4. 💧 Acrescente mais água se necessário, para não queimar. 
+5. 🍂 Retire a canela e os cravos para evitar que o doce fique amargo.
 
 ----
 
-##  Torta de frango low carb (sem farinha) ##
+## 🥧 Torta de Frango Low Carb (sem farinha)
 
-- 4 ovos
-- 2 xícaras (chá) de frango desfiado
-- 1 tomate
-- 1 cenoura ralada
-- 2 colheres (sopa) de aveia
-- cebolinha a gosto
-- Sal e pimenta a gosto
-- 1 colher (sopa) de fermento em pó
+### 📝 **Ingredientes** 📝
+
+- 🥚 4 ovos
+- 🍗 2 xícaras (chá) de frango desfiado
+- 🍅 1 tomate
+- 🥕 1 cenoura ralada
+- 🌾 2 colheres (sopa) de aveia
+- 🌿 cebolinha a gosto
+- 🧂 Sal e pimenta a gosto
+- 🧂 1 colher (sopa) de fermento em pó
 
 
-### Modo de preparo ###
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-1. Bata as claras e reserve. Em um recipiente, coloque todos os ingredientes, mexa e depois acrescente as claras em neve e, por último, o fermento em pó. 
-2. Coloque em uma fôrma retangular untada e leve ao forno. 
-3. Deixe até a torta ficar dourada.
+1. 🥚 Bata as claras e reserve. Em um recipiente, coloque todos os ingredientes, mexa e depois acrescente as claras em neve e, por último, o fermento em pó. 
+2. 🥧 Coloque em uma forma retangular untada e leve ao forno. 
+3. 🔥 Deixe até a torta ficar dourada.
 
 
 ::: details Referências
@@ -659,48 +673,46 @@ visto que o coco fresco solta água)
 ----
 
 
-##  Canelone de palmito gratinado ##
+## 🍝 Canelone de Palmito Gratinado
 
-### **Ingredientes** ###
+### 📝 **Ingredientes** 📝
 
-- 1 vidro de palmito de açaí
-- 100g de peito de peru
-- 100g de muçarela fatiada
-- Queijo parmesão para gratinar
-
-
-### Molho branco ###
+- 🌴 1 vidro de palmito de açaí
+- 🦃 100g de peito de peru
+- 🧀 100g de muçarela fatiada
+- 🧀 Queijo parmesão para gratinar
 
 
-- 1 colher de sopa de azeite de oliva
-- 1 colher de sopa de cebola picada
-- 1 caixa de creme de leite
-- 1 colher de sopa de cream cheese
-- 30g de muçarela ralada
-- Sal, pimenta do reino e noz moscada a gosto.
+#### 🥛 **Molho branco** 🥛
+
+- 🫒 1 colher de sopa de azeite de oliva
+- 🧅 1 colher de sopa de cebola picada
+- 🥛 1 caixa de creme de leite
+- 🥛 1 colher de sopa de cream cheese
+- 🧀 30g de muçarela ralada
+- 🧂 Sal, pimenta do reino e noz moscada a gosto.
 
 
-### Modo de preparo ###
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-- Faça os canelones enrolando o palmito com uma fatia de muçarela e uma de peito
-de peru e coloque em uma uma forma. 
+- 🍝 Faça os canelones enrolando o palmito com uma fatia de muçarela e uma de peito de peru e coloque em uma forma. 
 
-### Molho ###
+#### 🥛 **Molho** 🥛
 
-Refogue a cebola no azeite, misture todos os demais ingredientes (exceto o parmesão) e deixe engrossar um pouco. Coloque sobre os canelones, acrescente o parmesão ralado e leve ao forno até gratinar.
+🍳 Refogue a cebola no azeite, misture todos os demais ingredientes (exceto o parmesão) e deixe engrossar um pouco. Coloque sobre os canelones, acrescente o parmesão ralado e leve ao forno até gratinar.
 
 ----
 
-## Pizza de berinjela ## 
+## 🍕 Pizza de Berinjela
 
-### Ingredientes ###
+### 📝 **Ingredientes** 📝
 
-- 3 colheres de sopa de farinha de berinjela
-- 1 colher de sopa de azeite extra virgem
-- 50ml de água
-- Queijo mussarela Light
-- Orégano
-- Molho de tomate
+- 🍆 3 colheres de sopa de farinha de berinjela
+- 🫒 1 colher de sopa de azeite extra virgem
+- 💧 50ml de água
+- 🧀 Queijo mussarela Light
+- 🌿 Orégano
+- 🍅 Molho de tomate
 
 ::: details Referências
 [Link do Youtube](https://www.youtube.com/watch?v=LEXoIN8B6c4)
@@ -708,27 +720,27 @@ Refogue a cebola no azeite, misture todos os demais ingredientes (exceto o parme
 
 ----
 
-## Risoto à moda Ricardo ##
+## 🍚 Risoto à Moda Ricardo
 
-### Ingredientes ###
+### 📝 **Ingredientes** 📝
 
-- 1 xícara de arroz arbóreo ou carnaroli
-- 1/4 de cebola picada
-- Açafrão a gosto
-- 1 colher de sobremesa de manteiga
-- Queijo parmesão ralado a gosto (50g)
-- Sal a gosto
+- 🍚 1 xícara de arroz arbóreo ou carnaroli
+- 🧅 1/4 de cebola picada
+- 🟡 Açafrão a gosto
+- 🧈 1 colher de sobremesa de manteiga
+- 🧀 Queijo parmesão ralado a gosto (50g)
+- 🧂 Sal a gosto
 
-### Modo de preparo ###
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-1. Refogue a cebola na manteiga, adicione o arroz, o açafrão e sal a gosto.
-2. Adicione a água e deixe cozinhar até que o arroz esteja ao dente (aproximadamente 20 minutos).
-3. Desligue o fogo e adicione o queijo parmesão ralado.
-4. Sirva quente.
+1. 🍳 Refogue a cebola na manteiga, adicione o arroz, o açafrão e sal a gosto.
+2. 💧 Adicione a água e deixe cozinhar até que o arroz esteja ao dente (aproximadamente 20 minutos).
+3. 🧀 Desligue o fogo e adicione o queijo parmesão ralado.
+4. 🍽️ Sirva quente.
 
-::: tip DICAS
-- Serve 2 ou 3 pessoas.
-- Pode ser servido com frango desfiado, peixe ou vegetariano.
+::: tip 💡 **DICAS**
+- 👥 Serve 2 ou 3 pessoas.
+- 🍗 Pode ser servido com frango desfiado, peixe ou vegetariano.
 :::
 
 ----
@@ -794,223 +806,219 @@ Refogue a cebola no azeite, misture todos os demais ingredientes (exceto o parme
 [Link do Youtube](https://www.youtube.com/watch?v=LrgUZLy1fMc)
 ::: 
 
-## -- **Bolos** -- ##
+## 🍰 **Bolos** 🍰
 ----
 
 
-## :cake::lemon: Bolo de limão ##
+## 🍰🍋 Bolo de Limão
 
-### **Ingredientes** ###
+### 📝 **Ingredientes** 📝
 
-**Para o bolo**
+#### 🍰 **Para o bolo**
 
-- ¼ de um limão-taiti (sem a parte branca)
-- 4 ovos grandes inteiros :egg:
-- ½ xícara de óleo
-- 1 colher de sopa de fermento em pó
-- 3 xícaras de farinha de trigo
-- 1 pitada de sal
-- 4 colheres de sopa de água
-- 2 xícaras rasas de açúcar
+- 🍋 ¼ de um limão-taiti (sem a parte branca)
+- 🥚 4 ovos grandes inteiros
+- 🫒 ½ xícara de óleo
+- 🧂 1 colher de sopa de fermento em pó
+- 🌾 3 xícaras de farinha de trigo
+- 🧂 1 pitada de sal
+- 💧 4 colheres de sopa de água
+- 🧂 2 xícaras rasas de açúcar
 
 Observação: se não houver limão-taiti à disposição para o preparo, ele pode ser substituído por uma gelatina de limão inteira.
 
-**Para a cobertura**
+#### 🍯 **Para a cobertura**
 
-- 1 lata de leite condensado
-- Suco de 2 limões
-- Raspa de limão
+- 🥛 1 lata de leite condensado
+- 🍋 Suco de 2 limões
+- 🍋 Raspa de limão
 
-### Modo de preparo ###
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-O preparo da cobertura requer a mistura do leite condensado com o suco de limão, até dar consistência o suficiente para ficar em reserva.
+🍯 **Cobertura:** O preparo da cobertura requer a mistura do leite condensado com o suco de limão, até dar consistência o suficiente para ficar em reserva.
 
-Inicialmente para o bolo, bata no liquidificador os ovos, o limão (ou a gelatina), o açúcar, o óleo, o sal e a água. Em seguida, coloque em um recipiente e acrescente farinha de trigo peneirada. Ao fim, insira o fermento em pó.
+🍰 **Bolo:** Inicialmente para o bolo, bata no liquidificador os ovos, o limão (ou a gelatina), o açúcar, o óleo, o sal e a água. Em seguida, coloque em um recipiente e acrescente farinha de trigo peneirada. Ao fim, insira o fermento em pó.
 
-Na sequência leve o bolo ao forno pré-aquecido, em temperatura de 200°C por 30 minutos. Quando o bolo estiver assado, coloque a cobertura por cima. Por último, insira as raspas do limão para enfeitar.
-
-----
-
-## :cake::chocolate_bar: Bolo de cacau  ##
-
-### Ingredientes ###
-
-- 2 ovos :egg:
-- 1 xícara de óleo
-- 1 xícara de açúcar
-- 2 xícaras de farinha de trigo
-- 1 xícara de leite
-- 1 xícara de chocolate em pó 50% cacau (ou 100%)
-- 1 colher de sopa de fermento em pó
-
-### Modo de preparo ###
-
-1. Bater tudo no liquidifcador.
-2. Em uma forma untada com manteiga e enfarinhada com o chocolate em pó, adicione a massa e leve ao forno preaquecido a 180 graus e deixe assar porcerca de 30 minutos dependendo do forno. Ou quando o palitinho sair seco.
-3. Deixe esfriar totalmente antes de esfarelar o bolo.
-
-### Calda ###
-
-- 2 colheres de sopa de manteiga
-- 3 colheres de sopa de chocolate em pó 50% cacau (não pode usar o 100%)
-- 3 colheres de sopa de açúcar
-- 5 colheres de sopa de leite
-
-Misturar tudo e derreter no fogão. Jogar quente sobre o bolo quente.
+🔥 Na sequência leve o bolo ao forno pré-aquecido, em temperatura de 200°C por 30 minutos. Quando o bolo estiver assado, coloque a cobertura por cima. Por último, insira as raspas do limão para enfeitar.
 
 ----
 
-## Bolo de milho cremoso, ideal para o café da manhã. ##
+## 🍰🍫 Bolo de Cacau
 
-### Ingredientes ###
+### 📝 **Ingredientes** 📝
 
-- 2 latas de milho verde escorrido
-- 2 xícaras (chá) de açúcar
-- 3 ovos
-- 2 colheres (sopa) de manteiga
-- 50 g de queijo parmesão ralado
-- 1 vidro de leite de coco
-- A mesma medida (do vidro) de leite
-- 4 colheres (sopa) de farinha de trigo
-- 1 colher (sopa) rasa de fermento em pó
+- 🥚 2 ovos
+- 🫒 1 xícara de óleo
+- 🧂 1 xícara de açúcar
+- 🌾 2 xícaras de farinha de trigo
+- 🥛 1 xícara de leite
+- 🍫 1 xícara de chocolate em pó 50% cacau (ou 100%)
+- 🧂 1 colher de sopa de fermento em pó
 
-### Modo de preparo ###
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-1. Bata bem todos os ingredientes no liquidificador, exceto o fermento.
-2. Adicione o fermento e misture bem.
-3. Coloque a massa em uma forma untada.
-4. Leve ao forno médio (pré-aquecido) por cerca de 35 a 40 minutos.
-5. Faça o teste do palito: espete o bolo com um palito e, se ele sair limpo, o bolo está no ponto.
+1. 🔄 Bater tudo no liquidificador.
+2. 🍰 Em uma forma untada com manteiga e enfarinhada com o chocolate em pó, adicione a massa e leve ao forno pré-aquecido a 180 graus e deixe assar por cerca de 30 minutos dependendo do forno. Ou quando o palitinho sair seco.
+3. ❄️ Deixe esfriar totalmente antes de esfarelar o bolo.
 
+### 🍯 **Calda** 🍯
 
+- 🧈 2 colheres de sopa de manteiga
+- 🍫 3 colheres de sopa de chocolate em pó 50% cacau (não pode usar o 100%)
+- 🧂 3 colheres de sopa de açúcar
+- 🥛 5 colheres de sopa de leite
 
-
-----
-
-## :cake::chocolate_bar::peanuts: Bolo de cacau com paçoca ##
-
-### Ingredientes ###
-
-- 5 ovos :egg:
-- 1 xícara de óleo
-- 1 xícara de açúcar
-- 2 xícaras de farinha de trigo
-- 1 xícara de leite integral
-- 1 xícara de chocolate em pó 50% cacau
-- 2 colheres de sobremesa de fermento em pó
-
-### Modo de preparo ###
-
-1. Separe as claras das gemas, e bata as claras até que fique em ponto médio.
-2. Em seguida adicione as gemas uma a uma enquanto bate tudo.
-3. Adicione o óleo e bata bem, depois o açúcar e deixe bater mais um pouco.
-4. Aos poucos adicione a farinha e o leite, intercalando, um pouquinho de farinha, um pouquinho de leite, até que toda a medida tenha sido adicionada.
-5. Depois adicione o chocolate em pó e bata mais um pouco
-6. Por último o fermento e bata um pouquinho até misturar bem.
-7. Em uma forma untada com manteiga e enfarinhada com o chocolate em pó, adicione a massa e leve ao forno preaquecido a 180 graus e deixe assar por
-8. cerca de 30 minutos dependendo do forno. Ou quando o palitinho sair seco.
-9. Deixe esfriar totalmente antes de esfarelar o bolo.
-
-### Cobertura ###
-
-1 lata de leite condensado
-
-1 lata de creme de leite
-
-1 colher de manteiga
-
-Paçoca para polvilhar
+🍳 Misturar tudo e derreter no fogão. Jogar quente sobre o bolo quente.
 
 ----
 
-## Bolo brigadeiro low carb ##
+## 🌽 Bolo de Milho Cremoso (Ideal para o café da manhã)
 
-### Ingredientes ###
+### 📝 **Ingredientes** 📝
 
-- 4 ovos
-- 100g iogurte natural integral
-- 50g manteiga (com sal)
-- 2 colheres sopa cacau em pó
-- 1 xícara farinha amêndoas
-- 4 colheres sopa eritritol
-- 1/2 xícara farinha maracujá
-- 1 colher sopa bicarbonato de sódio (ou fermento)
-- 1 colher psyllium (pode fazer sem ou substituir por goma xantana, mas aí seria 1 colher de café)
+- 🌽 2 latas de milho verde escorrido
+- 🧂 2 xícaras (chá) de açúcar
+- 🥚 3 ovos
+- 🧈 2 colheres (sopa) de manteiga
+- 🧀 50 g de queijo parmesão ralado
+- 🥥 1 vidro de leite de coco
+- 🥛 A mesma medida (do vidro) de leite
+- 🌾 4 colheres (sopa) de farinha de trigo
+- 🧂 1 colher (sopa) rasa de fermento em pó
 
-### Cobertura do brigadeiro ###
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-- 1 xícara de creme de leite
-- 1 colher sopa manteiga
-- 2 colheres sopa de cacau em pó
-- 4 colheres sopa de adoçanete eritritol
+1. 🔄 Bata bem todos os ingredientes no liquidificador, exceto o fermento.
+2. 🧂 Adicione o fermento e misture bem.
+3. 🍰 Coloque a massa em uma forma untada.
+4. 🔥 Leve ao forno médio (pré-aquecido) por cerca de 35 a 40 minutos.
+5. 🧪 Faça o teste do palito: espete o bolo com um palito e, se ele sair limpo, o bolo está no ponto.
 
-### Modo de preparo - Gerado por IA ###
 
-1. Bata os ingredientes no liquidificador.
-2. Coloque em uma forma untada e enfarinhada.
-3. Leve ao forno preaquecido a 180 graus por 30 minutos.
-4. Retire do forno e deixe esfriar.
 
 
 ----
 
-## Bolo de cenoura com fubá ##
+## 🍰🍫🥜 Bolo de Cacau com Paçoca
 
-### Ingredientes ###
+### 📝 **Ingredientes** 📝
 
-- 2 ovos
-- 1 cenoura (90 gramas)
-- 1/2 copo de óleo (150ml)
-- 1 pitada de sal
-- 2 colheres e meia de XILITOL
-- 1 copo de leite (300 ml)
-- 1 copo de fubá (185 gramas)
-- Coco ralado (40 gramas)
-- 1 colher sopa de fermento pra bolo (14 gramas)
+- 🥚 5 ovos
+- 🫒 1 xícara de óleo
+- 🧂 1 xícara de açúcar
+- 🌾 2 xícaras de farinha de trigo
+- 🥛 1 xícara de leite integral
+- 🍫 1 xícara de chocolate em pó 50% cacau
+- 🧂 2 colheres de sobremesa de fermento em pó
 
-### Modo de preparo ###
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-1. Misturar tudo no liquidificador e bater. 
-2. Colocar no forno por 20 minutos.
+1. 🥚 Separe as claras das gemas, e bata as claras até que fique em ponto médio.
+2. 🥚 Em seguida adicione as gemas uma a uma enquanto bate tudo.
+3. 🫒 Adicione o óleo e bata bem, depois o açúcar e deixe bater mais um pouco.
+4. 🌾 Aos poucos adicione a farinha e o leite, intercalando, um pouquinho de farinha, um pouquinho de leite, até que toda a medida tenha sido adicionada.
+5. 🍫 Depois adicione o chocolate em pó e bata mais um pouco
+6. 🧂 Por último o fermento e bata um pouquinho até misturar bem.
+7. 🍰 Em uma forma untada com manteiga e enfarinhada com o chocolate em pó, adicione a massa e leve ao forno pré-aquecido a 180 graus e deixe assar por cerca de 30 minutos dependendo do forno. Ou quando o palitinho sair seco.
+8. ❄️ Deixe esfriar totalmente antes de esfarelar o bolo.
+
+### 🍯 **Cobertura** 🍯
+
+- 🥛 1 lata de leite condensado
+- 🥛 1 lata de creme de leite
+- 🧈 1 colher de manteiga
+- 🥜 Paçoca para polvilhar
+
+----
+
+## 🍰🍫 Bolo Brigadeiro Low Carb
+
+### 📝 **Ingredientes** 📝
+
+- 🥚 4 ovos
+- 🥛 100g iogurte natural integral
+- 🧈 50g manteiga (com sal)
+- 🍫 2 colheres sopa cacau em pó
+- 🥜 1 xícara farinha amêndoas
+- 🧂 4 colheres sopa eritritol
+- 🥭 1/2 xícara farinha maracujá
+- 🧂 1 colher sopa bicarbonato de sódio (ou fermento)
+- 🌾 1 colher psyllium (pode fazer sem ou substituir por goma xantana, mas aí seria 1 colher de café)
+
+#### 🍫 **Cobertura do brigadeiro** 🍫
+
+- 🥛 1 xícara de creme de leite
+- 🧈 1 colher sopa manteiga
+- 🍫 2 colheres sopa de cacau em pó
+- 🧂 4 colheres sopa de adoçante eritritol
+
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
+
+1. 🔄 Bata os ingredientes no liquidificador.
+2. 🍰 Coloque em uma forma untada e enfarinhada.
+3. 🔥 Leve ao forno pré-aquecido a 180 graus por 30 minutos.
+4. ❄️ Retire do forno e deixe esfriar.
+
+
+----
+
+## 🍰🥕 Bolo de Cenoura com Fubá
+
+### 📝 **Ingredientes** 📝
+
+- 🥚 2 ovos
+- 🥕 1 cenoura (90 gramas)
+- 🫒 1/2 copo de óleo (150ml)
+- 🧂 1 pitada de sal
+- 🧂 2 colheres e meia de XILITOL
+- 🥛 1 copo de leite (300 ml)
+- 🌽 1 copo de fubá (185 gramas)
+- 🥥 Coco ralado (40 gramas)
+- 🧂 1 colher sopa de fermento pra bolo (14 gramas)
+
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
+
+1. 🔄 Misturar tudo no liquidificador e bater. 
+2. 🔥 Colocar no forno por 20 minutos.
 
 
 ----
 
 
 
-## :birthday: Brownie na marmita ##
+## 🎂🍫 Brownie na Marmita
 
-### **Ingredientes** ###
+### 📝 **Ingredientes** 📝
 
-- 200g de chocolate meio amargo ou ao leite
-- 4 colheres (sopa) de manteiga ( 80g)
-- 4 ovos
-- 1 e ½ xícara (chá) de açúcar (265g)
-- 1 colher (café) de essência de baunilha
-- ½ xícara (chá) de chocolate em pó (70g)
-- 1 xícara (chá) de farinha de trigo ( 120g)
+- 🍫 200g de chocolate meio amargo ou ao leite
+- 🧈 4 colheres (sopa) de manteiga (80g)
+- 🥚 4 ovos
+- 🧂 1 e ½ xícara (chá) de açúcar (265g)
+- 🌿 1 colher (café) de essência de baunilha
+- 🍫 ½ xícara (chá) de chocolate em pó (70g)
+- 🌾 1 xícara (chá) de farinha de trigo (120g)
 
-### **Ingredientes e sugestões de sabores** ###
+### 🍫 **Sugestões de sabores** 🍫
 
-- Tradicional : não acrescente nada na massa.
-- Nutella (creme de avelã) a gosto
-- Nozes a gosto
-- M&M’s a gosto
-- Bis a gosto
-- Biscoito Oreo a gosto
+- 🍫 **Tradicional:** não acrescente nada na massa.
+- 🥜 **Nutella (creme de avelã)** a gosto
+- 🥜 **Nozes** a gosto
+- 🍬 **M&M's** a gosto
+- 🍫 **Bis** a gosto
+- 🍪 **Biscoito Oreo** a gosto
 
 Derreta o chocolate com a manteiga em banho-maria ou no micro-ondas de 30 em 30 segundos e mexa a cada tempo até que derreta por completo. Reserve.
 
-Em outra tigela coloque os ovos, o açúcar e a essência de baunilha, misture bem até que fique bem homogêneo. Depois adicione o chocolate e a manteiga já derretida, misture bem. Em seguida, adicione o chocolate em pó e a farinha de trigo e misture mais um pouco. Despeje em uma assadeira untada com manteiga e polvilhada com chocolate em pó, ou em marmitas. Para as marmitas não há necessidade de untar com manteiga.
+Em outra tigela coloque os ovos, o açúcar e a essência de baunilha, misture bem até que fique bem homogêneo. Depois adicione o chocolate e a manteiga já derretida, misture bem. Em seguida, adicione o chocolate em pó e a farinha de trigo e misture mais um pouco. Despeje em uma assadeira untada com manteiga e polvilhada com chocolate em pó, ou em marmitas. Para as marmitas não há necessidade de untar com manteiga.
 
 - Para o sabor tradicional não precisa acrescentar mais nada, apenas leve ao forno.
 - Para o sabor de Bis : coloque sobre a massa pedacinhos de Bis a gosto.
 
 
-- Para o sabor de biscoito Oreo: coloque sobre a massa pedacinhos de Oreo a gosto.
+- Para o sabor de biscoito Oreo: coloque sobre a massa pedacinhos de Oreo a gosto.
 
 
-- Para o sabor m&m’s: coloque sobre a massa os m&m’s a gosto.
+- Para o sabor m&m's: coloque sobre a massa os m&m's a gosto.
 
 
 - Para o sabor de Nozes : coloque sobre a massa pedacinhos de Nozes picada a gosto.
@@ -1028,108 +1036,108 @@ Rendimento 6 marmitas de 150g cada.
 
 ----
 
-## :honey_pot: Bolo pão de mel ##
+## 🍯🍰 Bolo Pão de Mel
 
-### **Ingredientes** ###
+### 📝 **Ingredientes** 📝
 
-- 2 ovos
-- 1 lata de leite condensado
-- 1 copo de leite
-- 1 xícara de mel
-- 1 xícara de açúcar mascavo
-- 3 colheres de cacau em pó
-- 1 colher de chá de cravo em pó
-- 1 colher de chá de canela em pó
-- Raspas de noz moscada
-- 1 xícara de nozes (Opcional. E se quiser pode por menos também)
-- 1 colher de chá de bicarbonato
-- 1 colher de sopa de fermento em pó
-- 3 xícara de farinha de trigo
+- 🥚 2 ovos
+- 🥛 1 lata de leite condensado
+- 🥛 1 copo de leite
+- 🍯 1 xícara de mel
+- 🧂 1 xícara de açúcar mascavo
+- 🍫 3 colheres de cacau em pó
+- 🌸 1 colher de chá de cravo em pó
+- 🍂 1 colher de chá de canela em pó
+- 🌿 Raspas de noz moscada
+- 🥜 1 xícara de nozes (Opcional. E se quiser pode por menos também)
+- 🧂 1 colher de chá de bicarbonato
+- 🧂 1 colher de sopa de fermento em pó
+- 🌾 3 xícara de farinha de trigo
 
-### Recheio ###
+#### 🍯 **Recheio** 🍯
 
-- 2 latas de leite condensado cozida
-- 800 gramas de doce de leite comprado pronto
+- 🥛 2 latas de leite condensado cozida
+- 🥛 800 gramas de doce de leite comprado pronto
 
-### Cobertura ###
+#### 🍫 **Cobertura** 🍫
 
-- 1 caixinha de creme de leite
-- 250 gramas de chocolate 1/2 amargo picadinho
+- 🥛 1 caixinha de creme de leite
+- 🍫 250 gramas de chocolate 1/2 amargo picadinho
 
-Leve o creme de leite ao micro-ondas por 1 minuto.
+🔥 Leve o creme de leite ao micro-ondas por 1 minuto.
 
-Coloque o chocolate e mexa bem até derreter.
+🔄 Coloque o chocolate e mexa bem até derreter.
 
-PS: Se necessário, coloque mais 10 segundos no micro.
+💡 **PS:** Se necessário, coloque mais 10 segundos no micro.
 
-### Calda ###
+#### 🍯 **Calda** 🍯
 
-- 1 copo de água
-- 1 colher de sopa de açúcar
-- 1 pau de canela (ou 1 colher de sopa de canela)
+- 💧 1 copo de água
+- 🧂 1 colher de sopa de açúcar
+- 🍂 1 pau de canela (ou 1 colher de sopa de canela)
 
-Leve ao micro-ondas por 3 minutos.
+🔥 Leve ao micro-ondas por 3 minutos.
 
-### **Modo de fazer** ###
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-1. Coloque no liquidificador todos os ingredientes, exceto a farinha de trigo, fermento e bicarbonato. Bata bem.
-2. Acrescente os 3 ingredientes que ficaram de fora e bata, mas não muito. Vá dando uma ajuda amiga com uma colher.
-3. Coloque em uma forma untada de 30cm de diâmetro.
-4. Leve ao forno preaquecido a 180ºC por 40 minutos (ou faça o teste do palitinho, ele tem que sair sequinho)
-5. Deixe amornar e desenforme.
-6. Corte-o ao meio e regue com metade da calda. Eu reguei com um pincel (desses de untar a forma, sabe?), acho melhor, pois não cai um montão em um lugar só.
-7. Recheie com o doce de leite e feche o bolo com a outra metade.
-8. Regue com o restante da calda.
-9. Cubra o bolo com a cobertura de ganache.
+1. 🔄 Coloque no liquidificador todos os ingredientes, exceto a farinha de trigo, fermento e bicarbonato. Bata bem.
+2. 🧂 Acrescente os 3 ingredientes que ficaram de fora e bata, mas não muito. Vá dando uma ajuda amiga com uma colher.
+3. 🍰 Coloque em uma forma untada de 30cm de diâmetro.
+4. 🔥 Leve ao forno pré-aquecido a 180ºC por 40 minutos (ou faça o teste do palitinho, ele tem que sair sequinho)
+5. ❄️ Deixe amornar e desenforme.
+6. 🍯 Corte-o ao meio e regue com metade da calda. Eu reguei com um pincel (desses de untar a forma, sabe?), acho melhor, pois não cai um montão em um lugar só.
+7. 🍯 Recheie com o doce de leite e feche o bolo com a outra metade.
+8. 🍯 Regue com o restante da calda.
+9. 🍫 Cubra o bolo com a cobertura de ganache.
 
 -----
 
-## :honey_pot: Bolo pão de mel - Edu Guedes ##
+## 🍯🍰 Bolo Pão de Mel - Edu Guedes
 
-### **Ingredientes** ###
+### 📝 **Ingredientes** 📝
 
-**Rendimento:** 10 pessoas
+**👥 Rendimento:** 10 pessoas
 
-**Tempo:** 1 hora :clock1:
+**⏰ Tempo:** 1 hora
 
-**Bolo**
+#### 🍰 **Bolo** 🍰
 
-- 1 xícara (chá) de mel
-- Suco de 1 limão grande
-- 1 xícara (chá) de açúcar mascavo
-- 1 xícara (chá) de leite
-- 1 colher (sopa) de manteiga
-- ½ colher (chá) de canela em pó
-- ½ colher (café) de cravo moído
-- 3 xícaras (chá) de farinha de trigo
-- 1 colher (sobremesa) de bicarbonato de sódio
+- 🍯 1 xícara (chá) de mel
+- 🍋 Suco de 1 limão grande
+- 🧂 1 xícara (chá) de açúcar mascavo
+- 🥛 1 xícara (chá) de leite
+- 🧈 1 colher (sopa) de manteiga
+- 🍂 ½ colher (chá) de canela em pó
+- 🌸 ½ colher (café) de cravo moído
+- 🌾 3 xícaras (chá) de farinha de trigo
+- 🧂 1 colher (sobremesa) de bicarbonato de sódio
 
-**Recheio e cobertura**
+#### 🍯 **Recheio e cobertura** 🍯
 
-- 1 xícara (chá) de doce de leite molinho
-- 1 xícara (chá) de guaraná para molhar o bolo
-- 2 litros de sorvete
-- ½ Kg de chocolate fracionado
+- 🥛 1 xícara (chá) de doce de leite molinho
+- 🥤 1 xícara (chá) de guaraná para molhar o bolo
+- 🍦 2 litros de sorvete
+- 🍫 ½ Kg de chocolate fracionado
 
-**Brigadeiro falso**
+#### 🍫 **Brigadeiro falso** 🍫
 
-- 1 xícara (chá) de farelo de pão de mel
-- 1 colher (sopa) de leite condensado
-- 2 colheres (sopa) chocolate em pó
+- 🍰 1 xícara (chá) de farelo de pão de mel
+- 🥛 1 colher (sopa) de leite condensado
+- 🍫 2 colheres (sopa) chocolate em pó
 
-### **Modo de Preparo** ###
+### 👨‍🍳 **Modo de Preparo** 👨‍🍳
 
-**Bolo**
+#### 🍰 **Bolo** 🍰
 
-Em uma tigela, coloque o mel e o suco de limão e misture bem. Acrescente o açúcar, o leite, a manteiga e bata até que os ingredientes fiquem homogêneos. Coloque a canela, o cravo e a farinha e deixe a massa homogênea Adicione o bicarbonato e deixe incorporar. Asse em forma untada e enfarinhada por 25 a 30 minutos em forno médio. Quando estiver pronto, retire do forno e deixe esfriar.
+🔄 Em uma tigela, coloque o mel e o suco de limão e misture bem. Acrescente o açúcar, o leite, a manteiga e bata até que os ingredientes fiquem homogêneos. Coloque a canela, o cravo e a farinha e deixe a massa homogênea. Adicione o bicarbonato e deixe incorporar. 🔥 Asse em forma untada e enfarinhada por 25 a 30 minutos em forno médio. Quando estiver pronto, retire do forno e deixe esfriar.
 
-**Montagem**
+#### 🎂 **Montagem** 🎂
 
-Desenforme, corte uma tampa, retire o miolo, molhe o bolo com guaraná e recheie com doce de leite e sorvete. Coloque a tampa por cima e leve ao freezer. Cubra com chocolate derretido.
+🍰 Desenforme, corte uma tampa, retire o miolo, molhe o bolo com guaraná e recheie com doce de leite e sorvete. Coloque a tampa por cima e leve ao freezer. 🍫 Cubra com chocolate derretido.
 
-**Brigadeiro falso**
+#### 🍫 **Brigadeiro falso** 🍫
 
-Use o miolo do pão de mel, esfarele e misture o leite condensado. Faça bolinhas e passe no chocolate em pó.
+🔄 Use o miolo do pão de mel, esfarele e misture o leite condensado. 🏀 Faça bolinhas e passe no chocolate em pó.
 
 ----
 ## :corn: Bolo de milho ##
@@ -1437,27 +1445,27 @@ Para a calda, basta colocar os ingredientes em uma panela, ferver e deixar reduz
 Massa, frutas e farofa.
 
 ----
-## -- **Tortas** -- ## 
+## 🥧 **Tortas** 🥧
 ----
 
 
 
 
-## Massa de torta vegana ##
+## 🌱 Massa de Torta Vegana
 
-### Ingredientes ###
+### 📝 **Ingredientes** 📝
 
-- 1/2 xícara de óleo
-- 2 xícaras de agua
-- 1 xícara de farelo de aveia
-- 1 xícara de farinha de grão de bico
-- 1 pitada de sal
-- 1 colher de sopa de fermento em pó
+- 🫒 1/2 xícara de óleo
+- 💧 2 xícaras de água
+- 🌾 1 xícara de farelo de aveia
+- 🫘 1 xícara de farinha de grão de bico
+- 🧂 1 pitada de sal
+- 🧂 1 colher de sopa de fermento em pó
 
-### Modo de preparo ###
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-1. Bater até misturar. 
-2. No final adicionar o sal e o fermento e bater novamente.
+1. 🔄 Bater até misturar. 
+2. 🧂 No final adicionar o sal e o fermento e bater novamente.
 
 
 ----
@@ -1582,62 +1590,62 @@ Misture tudo, junte com a massa e coloque no forno.
 6. Leve a forno em temperatura média por aproximadamente 30 minutos, ou até dourar
 
 ----
-## -- **Mousses** -- ## 
+## 🍮 **Mousses** 🍮
 ----
 
-## Mousse de chocolate sem ovos low carb ##
+## 🍫 Mousse de Chocolate sem Ovos (Low Carb)
 
-### **Ingredientes** ###
+### 📝 **Ingredientes** 📝
 
-- 400mL de leite de coco ou creme de leite
-- 300 g de chocolate meio amargo derretido
-- 1 pacotinho de gelatina sem sabor
+- 🥥 400mL de leite de coco ou creme de leite
+- 🍫 300 g de chocolate meio amargo derretido
+- 🧊 1 pacotinho de gelatina sem sabor
 
-### Modo de preparo ###
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-1. Derreta o chocolate e reserve.
-2. Em uma caneca coloque a gelatina e adicione 1/3 xícara de agua quente, misture e reserve.
-3. No liquidificador bata o leite de coco com o chocolate derretido, depois adicione a gelatina e bata novamente.
-4. Coloque em uma forma e leve para gelar.
+1. 🍫 Derreta o chocolate e reserve.
+2. 🧊 Em uma caneca coloque a gelatina e adicione 1/3 xícara de água quente, misture e reserve.
+3. 🔄 No liquidificador bata o leite de coco com o chocolate derretido, depois adicione a gelatina e bata novamente.
+4. ❄️ Coloque em uma forma e leve para gelar.
 
 ----
 
 
-## Mousse de manga ##
+## 🥭 Mousse de Manga
 
-### **Ingredientes** ###
+### 📝 **Ingredientes** 📝
 
-- 1 lata de leite condensado (395g)
-- 1 caixinha de creme de leite (200g)
-- ½ xícara de leite
-- 1 ½ mangas médias
+- 🥛 1 lata de leite condensado (395g)
+- 🥛 1 caixinha de creme de leite (200g)
+- 🥛 ½ xícara de leite
+- 🥭 1 ½ mangas médias
   
-### **Modo de preparo** ###
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-1. Bata tudo no liquidificador.
-2. Coloque no congelador. Fica na consistência de sorvete.
+1. 🔄 Bata tudo no liquidificador.
+2. ❄️ Coloque no congelador. Fica na consistência de sorvete.
 
 
 ----
-## Mousse de morango ##
+## 🍓 Mousse de Morango
 
-### **Ingredientes** ###
+### 📝 **Ingredientes** 📝
 
-- 1 lata de leite condensado (395g)
-- 1 caixinha de creme de leite (200g)
-- 1 caixinha de gelatina sabor morango
-- 2 colheres (sopa) rasas de gelatina em pó sem sabor
-- ½ copo (requeijão) de água
-- 1 copo (requeijão) de chantilly batido (medir antes de bater)
-- 1 copo (requeijão) de morango picado
+- 🥛 1 lata de leite condensado (395g)
+- 🥛 1 caixinha de creme de leite (200g)
+- 🧊 1 caixinha de gelatina sabor morango
+- 🧊 2 colheres (sopa) rasas de gelatina em pó sem sabor
+- 💧 ½ copo (requeijão) de água
+- 🥛 1 copo (requeijão) de chantilly batido (medir antes de bater)
+- 🍓 1 copo (requeijão) de morango picado
 
-### **Modo de preparo** ###
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-1. Coloque no liquidificador o leite condensado, o creme de leite e o morango. Bata bem.
-2. Em uma panela coloque a gelatina sabor morango, a gelatina em pó sem sabor e a água. Mexa bem.
-3. Leve ao fogo até ferver, acrescente no liquidificador junto com a mistura de morango e bata.
-4. Deixe esfriar e acrescente o chantilly batido.
-5. Recheie o bolo e leve para gelar até ficar firme.
+1. 🔄 Coloque no liquidificador o leite condensado, o creme de leite e o morango. Bata bem.
+2. 🍳 Em uma panela coloque a gelatina sabor morango, a gelatina em pó sem sabor e a água. Mexa bem.
+3. 🔥 Leve ao fogo até ferver, acrescente no liquidificador junto com a mistura de morango e bata.
+4. ❄️ Deixe esfriar e acrescente o chantilly batido.
+5. 🍰 Recheie o bolo e leve para gelar até ficar firme.
 
 ----
 
@@ -1704,58 +1712,86 @@ Misture tudo, junte com a massa e coloque no forno.
 
 
 ----
-## -- **Muffins** -- ## 
+## 🧁 **Muffins** 🧁
 ----
 
-##  :croissant: Muffin Salgado Fácil ##
+## 🥐 Muffin Salgado Fácil
 
-::: tip DICA
+::: tip 💡 **DICA**
 Substitua o presunto se quiser por algo que você goste mais. Ex: Bacon frito em cubinhos, mortadela, peito de peru, salsichão e etc....
- :::
+:::
 
-### Ingredientes ###
+### 📝 **Ingredientes** 📝
 
-- 01 xícara (chá) de farinha de trigo com fermento
-- 04 colheres (sopa) de maionese
-- ¾ xícara (chá) de leite
-- 6 fatias de presunto picado
-- Salsinha picada a gosto
-- 1 pitada de sal
+- 🌾 01 xícara (chá) de farinha de trigo com fermento
+- 🥄 04 colheres (sopa) de maionese
+- 🥛 ¾ xícara (chá) de leite
+- 🥓 6 fatias de presunto picado
+- 🌿 Salsinha picada a gosto
+- 🧂 1 pitada de sal
 
-### Modo de preparo ###
+### 👨‍🍳 **Modo de preparo** 👨‍🍳
 
-1. Pré-aqueça o forno a 180°.
-2. Em um recipiente coloque a farinha de trigo com fermento, a maionese, o leite, o presunto picado e a salsinha.
-3. Misture bem todos os ingredientes.
-4. Tempere com o sal e mexa mais um pouco.
-5. Encha as forminhas de muffins até 2/3 da sua capacidade.
-6. Leve para assar por 15 a 20 minutos até que enfiando um palito ele saia limpo. 
-7. Aproveite!
+1. 🔥 Pré-aqueça o forno a 180°.
+2. 🥣 Em um recipiente coloque a farinha de trigo com fermento, a maionese, o leite, o presunto picado e a salsinha.
+3. 🔄 Misture bem todos os ingredientes.
+4. 🧂 Tempere com o sal e mexa mais um pouco.
+5. 🧁 Encha as forminhas de muffins até 2/3 da sua capacidade.
+6. ⏰ Leve para assar por 15 a 20 minutos até que enfiando um palito ele saia limpo. 
+7. 🍽️ Aproveite!
 
 ----
 
-## :cookie: Muffin de maionese ##
+## 🍪 Muffin de Maionese
 
-### **Ingredientes** ###
+### 📝 **Ingredientes** 📝
 
-- 1 xícara de farinha
-- 1 colher de fermento
-- 4 colheres de maionese
-- 3/4 xícara de leite
-- recheio a gosto
-- sal
+- 🌾 1 xícara de farinha
+- 🧂 1 colher de fermento
+- 🥄 4 colheres de maionese
+- 🥛 3/4 xícara de leite
+- 🥓 recheio a gosto
+- 🧂 sal
   
 ----
-## :birthday: Muffin de chocolate ##
+## 🎂 Muffin de Chocolate
 
-### **Ingredientes** ###
+### 📝 **Ingredientes** 📝
 
-- 125g de margarina derretida (1/2 xícara + 1 colher)
-- 375g de farinha (3 xícaras + 1 colher cheia)
-- 3 colheres de cacau
-- 175g de açúcar (1 xícara + 1 colher cheia)
-- 2 ovos batidos
-- 250mL de leite / leite de coco
-- coco ralado (1 xícara)
-- 1 colher de fermento
+- 🧈 125g de margarina derretida (1/2 xícara + 1 colher)
+- 🌾 375g de farinha (3 xícaras + 1 colher cheia)
+- 🍫 3 colheres de cacau
+- 🧂 175g de açúcar (1 xícara + 1 colher cheia)
+- 🥚 2 ovos batidos
+- 🥛 250mL de leite / leite de coco
+- 🥥 coco ralado (1 xícara)
+- 🧂 1 colher de fermento
+
+---
+
+## 🎉 **Fim das Receitas** 🎉
+
+---
+
+### 📞 **Contato e Sugestões**
+
+Se você gostou das receitas ou tem sugestões de melhorias, entre em contato!
+
+- 📧 **Email:** [seu-email@exemplo.com]
+- 📱 **WhatsApp:** [seu-número]
+- 📸 **Instagram:** [@seu-instagram]
+
+---
+
+### ⭐ **Agradecimentos**
+
+Obrigado por usar nossa coleção de receitas! Esperamos que você aproveite cada uma delas e compartilhe com amigos e família.
+
+---
+
+*✨ Feito com ❤️ pela Wivian ✨*
+
+---
+
+*Última atualização: Julho 2025*
 
