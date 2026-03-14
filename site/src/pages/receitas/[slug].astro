@@ -1,0 +1,45 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+export async function getStaticPaths() {
+  const receitas = await getCollection('receitas');
+  return receitas.map((r) => ({ params: { slug: r.id }, props: { receita: r } }));
+}
+
+const { receita } = Astro.props;
+const { Content } = await render(receita);
+
+const categoriaLabel: Record<string, string> = {
+  'low-carb': '🥗 Low Carb',
+  'bolos': '🍰 Bolos',
+  'tortas': '🥧 Tortas',
+  'mousses': '🍮 Mousses',
+  'muffins': '🧁 Muffins',
+};
+---
+
+<Base title={receita.data.title}>
+  <div class="mb-4">
+    <a href="/" class="text-violet-600 text-sm hover:underline">← Todas as receitas</a>
+  </div>
+
+  <span class="text-sm text-violet-600 font-semibold uppercase tracking-wide">
+    {categoriaLabel[receita.data.categoria] ?? receita.data.categoria}
+  </span>
+  <h1 class="text-3xl font-bold text-gray-900 mt-1 mb-4">{receita.data.title}</h1>
+
+  {receita.data.tags && receita.data.tags.length > 0 && (
+    <div class="flex flex-wrap gap-2 mb-6">
+      {receita.data.tags.map((tag) => (
+        <a href={`/tags/${tag}`} class="text-xs bg-violet-100 text-violet-700 px-3 py-1 rounded-full hover:bg-violet-200 transition-colors">
+          #{tag}
+        </a>
+      ))}
+    </div>
+  )}
+
+  <article class="prose prose-violet max-w-none bg-white rounded-xl p-6 shadow-sm border border-violet-100">
+    <Content />
+  </article>
+</Base>

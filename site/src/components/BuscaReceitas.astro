@@ -1,0 +1,116 @@
+---
+// BuscaReceitas.astro — busca em tempo real no conteúdo completo das receitas
+---
+
+<div class="relative mb-8" id="busca-wrapper">
+  <div class="flex items-center gap-2 bg-white border-2 border-violet-200 rounded-xl px-4 py-3 shadow-sm focus-within:border-violet-500 focus-within:shadow-md transition-all">
+    <span class="text-gray-400 text-lg">🔍</span>
+    <input
+      id="busca-input"
+      type="text"
+      placeholder="Buscar receitas... ex: cenoura, frango, chocolate"
+      autocomplete="off"
+      class="flex-1 outline-none bg-transparent text-gray-800 placeholder-gray-400 text-base"
+    />
+    <button
+      id="busca-clear"
+      class="hidden text-gray-400 hover:text-gray-700 text-sm font-bold px-1"
+      aria-label="Limpar busca"
+    >✕</button>
+  </div>
+
+  <div
+    id="busca-results"
+    class="hidden absolute left-0 right-0 top-[calc(100%+6px)] bg-white border border-violet-100 rounded-xl shadow-xl z-50 max-h-80 overflow-y-auto"
+  >
+    <!-- preenchido pelo JS -->
+  </div>
+</div>
+
+<script>
+  type Recipe = { title: string; slug: string; text: string };
+
+  let index: Recipe[] | null = null;
+
+  const input = document.getElementById('busca-input') as HTMLInputElement;
+  const results = document.getElementById('busca-results') as HTMLDivElement;
+  const clearBtn = document.getElementById('busca-clear') as HTMLButtonElement;
+
+  function normalize(s: string) {
+    return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  }
+
+  function snippet(text: string, query: string): string {
+    const norm = normalize(text);
+    const q = normalize(query);
+    const idx = norm.indexOf(q);
+    if (idx === -1) return '';
+    const start = Math.max(0, idx - 40);
+    const end = Math.min(text.length, idx + query.length + 60);
+    return (start > 0 ? '…' : '') + text.slice(start, end).trim() + (end < text.length ? '…' : '');
+  }
+
+  async function loadIndex() {
+    if (index) return;
+    const res = await fetch('/search-index.json');
+    index = await res.json();
+  }
+
+  function render(query: string) {
+    if (!query.trim() || !index) {
+      results.classList.add('hidden');
+      results.innerHTML = '';
+      return;
+    }
+
+    const q = normalize(query);
+    const matches = index.filter((r) => normalize(r.title + ' ' + r.text).includes(q));
+
+    if (matches.length === 0) {
+      results.innerHTML = `<p class="px-4 py-3 text-sm text-gray-400">Nenhuma receita encontrada para "<strong>${query}</strong>"</p>`;
+    } else {
+      results.innerHTML = matches
+        .map((r) => {
+          const snip = snippet(r.text, query);
+          return `
+            <a href="/receitas/${r.slug}" class="flex flex-col px-4 py-3 border-b border-violet-50 last:border-none hover:bg-violet-50 transition-colors busca-link">
+              <span class="font-semibold text-violet-700 text-sm">${r.title}</span>
+              ${snip ? `<span class="text-xs text-gray-400 mt-0.5 truncate">${snip}</span>` : ''}
+            </a>`;
+        })
+        .join('');
+    }
+
+    results.classList.remove('hidden');
+  }
+
+  input.addEventListener('input', async () => {
+    const q = input.value;
+    clearBtn.classList.toggle('hidden', !q);
+    await loadIndex();
+    render(q);
+  });
+
+  clearBtn.addEventListener('click', () => {
+    input.value = '';
+    clearBtn.classList.add('hidden');
+    results.classList.add('hidden');
+    results.innerHTML = '';
+    input.focus();
+  });
+
+  // fechar ao clicar fora
+  document.addEventListener('click', (e) => {
+    if (!(e.target as Element).closest('#busca-wrapper')) {
+      results.classList.add('hidden');
+    }
+  });
+
+  // reabrir ao focar no input se já há query
+  input.addEventListener('focus', async () => {
+    if (input.value.trim()) {
+      await loadIndex();
+      render(input.value);
+    }
+  });
+</script>

@@ -1,0 +1,42 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title} · Receitas da Wivian</title>
+    <meta name="theme-color" content="#7c3aed" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="Wivian" />
+    <link rel="apple-touch-icon" href="/images/icons/icon-192x192.png" />
+  </head>
+  <body class="min-h-screen bg-violet-50 text-gray-800">
+    <header class="bg-violet-600 text-white shadow-md">
+      <div class="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between">
+        <a href="/" class="text-xl font-bold tracking-tight">👩‍🍳 Receitas da Wivian</a>
+        <nav class="flex gap-4 text-sm font-medium">
+          <a href="/" class="hover:underline">Início</a>
+          <a href="/categorias" class="hover:underline">Categorias</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-8">
+      <slot />
+    </main>
+
+    <footer class="text-center py-6 text-sm text-gray-400 mt-12">
+      Feito com ❤️ pela Wivian
+    </footer>
+  </body>
+</html>

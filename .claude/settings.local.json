@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(cat /mnt/c/Users/rical/OneDrive/Documentos/ricardo/receitas_wivian/site/node_modules/astro/package.json | python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(d['version'], d.get\\('engines',''\\)\\)\")",
+      "Bash(npx astro:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(cd /mnt/c/Users/rical/OneDrive/Documentos/ricardo/receitas_wivian && node migrate.mjs 2>&1)",
+      "Bash(node migrate.mjs 2>&1)",
+      "Bash(cp -r /mnt/c/Users/rical/OneDrive/Documentos/ricardo/receitas_wivian/docs/.vuepress/public/images /mnt/c/Users/rical/OneDrive/Documentos/ricardo/receitas_wivian/site/public/)",
+      "Bash(npm info:*)",
+      "Bash(export NVM_DIR=\"$HOME/.nvm\" && \\\\. \"$NVM_DIR/nvm.sh\" && npm install astro@latest 2>&1 | tail -5)",
+      "Read(//root/.nvm/**)",
+      "Read(//root/**)",
+      "Bash(npm uninstall:*)",
+      "Bash(ls /mnt/c/Users/rical/OneDrive/Documentos/ricardo/receitas_wivian/site/dist/*.js 2>/dev/null)"
+    ]
+  }
+}

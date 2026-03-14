@@ -1,0 +1,40 @@
+---
+interface Props {
+  title: string;
+  categoria: string;
+  slug: string;
+  tags?: string[];
+}
+
+const { title, categoria, slug, tags = [] } = Astro.props;
+
+const categoriaLabel: Record<string, string> = {
+  'low-carb': '🥗 Low Carb',
+  'bolos': '🍰 Bolos',
+  'tortas': '🥧 Tortas',
+  'mousses': '🍮 Mousses',
+  'muffins': '🧁 Muffins',
+};
+---
+
+<div class="relative bg-white rounded-xl shadow-sm border border-violet-100 p-4 hover:shadow-md hover:border-violet-300 transition-all">
+  <a href={`/receitas/${slug}`} class="absolute inset-0 rounded-xl" aria-label={title}></a>
+
+  <span class="text-xs text-violet-600 font-semibold uppercase tracking-wide">
+    {categoriaLabel[categoria] ?? categoria}
+  </span>
+  <h2 class="mt-1 text-lg font-semibold text-gray-800 leading-snug">{title}</h2>
+
+  {tags.length > 0 && (
+    <div class="relative mt-2 flex flex-wrap gap-1">
+      {tags.map((tag) => (
+        <a
+          href={`/tags/${tag}`}
+          class="text-xs bg-violet-100 text-violet-700 px-2 py-0.5 rounded-full hover:bg-violet-200 transition-colors"
+        >
+          #{tag}
+        </a>
+      ))}
+    </div>
+  )}
+</div>

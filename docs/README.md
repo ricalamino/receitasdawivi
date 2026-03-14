@@ -7,6 +7,8 @@ sidebarDepth: 0
 
 > *Uma coleção de receitas deliciosas e práticas para todos os momentos!*
 
+<RecipeSearch />
+
 ---
 
 
